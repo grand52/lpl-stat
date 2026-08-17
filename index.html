@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Grand League — Голы</title>
+<style>
+  :root{
+    --bg-0:#0a0d13;
+    --bg-1:#0f141d;
+    --bg-2:#151c28;
+    --line:#232c3a;
+    --teal:#39d6c8;
+    --gold:#f0b73c;
+    --text:#e7ecf3;
+    --text-dim:#8593a8;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      radial-gradient(ellipse 900px 500px at 15% -10%, rgba(57,214,200,0.10), transparent 60%),
+      radial-gradient(ellipse 700px 400px at 100% 0%, rgba(240,183,60,0.06), transparent 55%),
+      var(--bg-0);
+    color:var(--text);
+    font-family: -apple-system, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+    min-height:100vh;
+    padding:28px 16px 60px;
+  }
+  .wrap{max-width:820px;margin:0 auto;}
+
+  .eyebrow{
+    display:flex;align-items:center;gap:8px;
+    font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--teal);font-weight:700;margin-bottom:6px;
+  }
+  .eyebrow::before{
+    content:"";width:7px;height:7px;
+    background:var(--teal);display:inline-block;transform:rotate(45deg);
+  }
+  h1{
+    font-size:clamp(24px,5vw,34px);
+    font-weight:800;
+    letter-spacing:-0.01em;
+    margin:0 0 4px;
+  }
+  .sub{color:var(--text-dim);font-size:13px;margin-bottom:20px;}
+
+  table{
+    width:100%;border-collapse:separate;border-spacing:0;
+    background:var(--bg-1);
+    border:1px solid var(--line);
+    border-radius:12px;
+    overflow:hidden;
+  }
+  thead th{
+    text-align:left;
+    font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+    color:var(--text-dim);font-weight:700;
+    padding:12px 10px;
+    background:var(--bg-2);
+    border-bottom:1px solid var(--line);
+    white-space:nowrap;
+  }
+  tbody td{
+    padding:9px 10px;
+    border-bottom:1px solid var(--line);
+    font-size:14px;
+  }
+  tbody tr:last-child td{border-bottom:none;}
+
+  .rank{width:34px;text-align:center;font-weight:800;color:var(--text-dim);font-size:13px;}
+  tbody tr:nth-child(1) .rank{color:var(--gold);}
+  tbody tr:nth-child(2) .rank{color:#c8ccd4;}
+  tbody tr:nth-child(3) .rank{color:#c9834a;}
+
+  .name{font-weight:600;white-space:nowrap;width:1%;}
+  .avg{font-weight:800;color:var(--teal);text-align:center;font-variant-numeric:tabular-nums;font-feature-settings:"tnum";}
+  .avg .cnt{font-weight:600;color:var(--text-dim);font-size:11.5px;margin-left:2px;}
+  .goal{text-align:center;color:var(--text-dim);}
+  .goal.dash{color:#4a5568;}
+
+  .footer-note{margin-top:14px;font-size:12px;color:var(--text-dim);}
+
+  .col-goal{width:56px;}
+  .th-flex{
+    display:flex;align-items:center;justify-content:center;gap:5px;
+    position:relative;
+  }
+  .info-btn{
+    width:15px;height:15px;border-radius:50%;
+    border:1px solid var(--text-dim);
+    color:var(--text-dim);
+    font-size:10px;line-height:1;font-weight:700;
+    display:flex;align-items:center;justify-content:center;
+    background:transparent;cursor:pointer;font-family:inherit;
+    flex-shrink:0;padding:0;
+  }
+  .info-btn:hover, .info-btn.active{border-color:var(--teal);color:var(--teal);}
+  .tooltip{
+    position:absolute;
+    top:calc(100% + 8px);
+    left:50%;transform:translateX(-50%);
+    background:var(--bg-2);
+    border:1px solid var(--line);
+    border-radius:8px;
+    padding:9px 12px;
+    font-size:11.5px;
+    font-weight:600;
+    text-transform:none;
+    letter-spacing:0;
+    color:var(--text);
+    white-space:nowrap;
+    box-shadow:0 8px 20px rgba(0,0,0,0.4);
+    z-index:10;
+    display:none;
+  }
+  .tooltip.open{display:block;}
+  .tooltip .opp{color:var(--teal);}
+  .tooltip::before{
+    content:"";position:absolute;bottom:100%;left:50%;transform:translateX(-50%);
+    border:5px solid transparent;border-bottom-color:var(--line);
+  }
+  .tooltip::after{
+    content:"";position:absolute;bottom:100%;left:50%;transform:translateX(-50%) translateY(1px);
+    border:5px solid transparent;border-bottom-color:var(--bg-2);
+  }
+
+  @media (max-width:400px){
+    .col-goal{width:44px;}
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <div class="eyebrow">Grand League · Season 19</div>
+    <h1>Таблица голов ЛПЛ</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th style="width:34px;">#</th>
+          <th>Ник</th>
+          <th style="text-align:center;">Среднее</th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М1
+              <button class="info-btn" data-tip="tip1" type="button">i</button>
+              <div class="tooltip" id="tip1">vs <span class="opp">Spartak.FC</span> · 1072 : 1147</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М2
+              <button class="info-btn" data-tip="tip2" type="button">i</button>
+              <div class="tooltip" id="tip2">vs <span class="opp">Diaspora Romana</span> · 1137 : 1105</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М3
+              <button class="info-btn" data-tip="tip3" type="button">i</button>
+              <div class="tooltip" id="tip3">vs <span class="opp">Spartak.FC</span> · 1152 : 1141</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М4
+              <button class="info-btn" data-tip="tip4" type="button">i</button>
+              <div class="tooltip" id="tip4">vs <span class="opp">ICONS Brasil</span> · 1119 : 1125</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М5
+              <button class="info-btn" data-tip="tip5" type="button">i</button>
+              <div class="tooltip" id="tip5">vs <span class="opp">Next Gen Arab's</span> · 601 : 515</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М6
+              <button class="info-btn" data-tip="tip6" type="button">i</button>
+              <div class="tooltip" id="tip6">vs <span class="opp">Spartanii Români</span> · 1121 : 877</div>
+            </div>
+          </th>
+          <th class="col-goal">
+            <div class="th-flex">
+              М7
+              <button class="info-btn" data-tip="tip7" type="button">i</button>
+              <div class="tooltip" id="tip7">vs <span class="opp">UKR Ukraine Team</span> · 1169 : 1020</div>
+            </div>
+          </th>
+          <!-- текст подсказок держим синхронно с объектом MATCHES в скрипте ниже -->
+
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+
+    <div class="footer-note">Прочерк — игрок не участвовал в этом матче.</div>
+  </div>
+
+<script>
+// ЕДИНСТВЕННОЕ МЕСТО ДЛЯ ОБНОВЛЕНИЯ ДАННЫХ
+const DATA = [
+["GL·Фишер",null,40,null,null,null,null,null],
+["эсэба",39,null,33,35,null,38,40],
+["GL·LokomotivMSK",40,37,38,40,36,35,38],
+["GL·Ğødleşş",40,37,34,36,null,38,39],
+["GL·MILAN",35,41,34,33,35,38,38],
+["СамПОсебе",36,40,38,35,40,41,40],
+["Лизун0",38,38,36,36,40,33,39],
+["GL·Raital",37,38,40,40,38,40,36],
+["GL·Assassin",39,36,39,35,null,36,39],
+["GL·SENSA1",36,39,38,35,34,36,41],
+["zloy32",40,34,36,37,37,35,39],
+["Eclipse",40,34,39,39,40,43,42],
+["beryyyyx1337",36,38,37,34,null,33,33],
+["Taev",38,35,41,41,39,41,38],
+["zloy'",34,39,34,36,35,31,32],
+["GL·Acapellkazxc",35,37,39,38,39,39,39],
+["GL·feTFC",38,34,37,36,null,35,33],
+["GL·KAISER",35,37,38,35,38,0,36],
+["GL·TENDY",null,35,34,35,null,null,null],
+["GL·Angarsk",null,35,37,36,null,37,37],
+["GL·qupetv",null,35,null,null,null,null,null],
+["Kalamatrush",34,35,31,37,null,35,21],
+["GL·AMSTERDAM",37,32,40,39,39,29,36],
+["GL·Lizolil",37,32,34,39,34,35,39],
+["GL·Tem1kTitan",34,34,28,null,null,31,33],
+["Krapa",34,34,null,null,null,null,null],
+["Зенит78",null,34,39,36,39,37,36],
+["AnGel",41,25,42,42,null,39,37],
+["Геонуб",33,33,31,null,null,32,null],
+["GL·Skywalker",31,33,31,null,null,36,39],
+["GL·Arsenal",26,38,38,37,38,40,41],
+["Maxmmm",32,32,31,null,null,32,29],
+["GL·P1aton",31,null,null,null,null,null,33],
+["Wincol",29,null,null,27,null,null,null],
+["GL·SK1LL",28,null,null,null,null,null,null],
+["pukko",9,36,null,null,null,35,null],
+["Ultra",0,null,33,35,null,36,33],
+["Iuna",null,null,33,null,null,null,null],
+["Cristiano2828",null,null,39,34,null,41,41],
+["GL·Shaverhan",null,null,null,34,null,34,35],
+["GL·Tapt",null,null,null,35,null,null,null],
+["miteryos27",null,null,null,0,null,null,null],
+["winti",null,null,null,32,null,null,null],
+["OPTIMUS·PRIME",null,null,null,null,null,null,37]
+];
+
+function calcAvg(...goals){
+  const vals=goals.filter(v=>v!==null && v!==undefined && v!==0);
+  if(vals.length===0) return {avg:null,count:0};
+  return {avg: vals.reduce((a,b)=>a+b,0)/vals.length, count: vals.length};
+}
+function fmtAvg(v){
+  if(v===null) return '—';
+  return v.toFixed(1).replace('.',',');
+}
+function cell(v){
+  return v===null ? '<span class="goal dash">—</span>' : '<span class="goal">'+v+'</span>';
+}
+
+const rows = DATA.map(([name,g1,g2,g3,g4,g5,g6,g7])=>{
+  const {avg,count} = calcAvg(g1,g2,g3,g4,g5,g6,g7);
+  return {name,g1,g2,g3,g4,g5,g6,g7,avg,count};
+});
+rows.sort((a,b)=>{
+  const aa = a.avg===null ? -1 : a.avg;
+  const bb = b.avg===null ? -1 : b.avg;
+  return bb-aa;
+});
+
+const tbody=document.getElementById('tbody');
+tbody.innerHTML = rows.map((r,i)=>`
+  <tr>
+    <td class="rank">${i+1}</td>
+    <td class="name">${r.name}</td>
+    <td class="avg">${fmtAvg(r.avg)}<span class="cnt">${r.avg===null?'':' ('+r.count+')'}</span></td>
+    <td>${cell(r.g1)}</td>
+    <td>${cell(r.g2)}</td>
+    <td>${cell(r.g3)}</td>
+    <td>${cell(r.g4)}</td>
+    <td>${cell(r.g5)}</td>
+    <td>${cell(r.g6)}</td>
+    <td>${cell(r.g7)}</td>
+  </tr>
+`).join('');
+
+document.querySelectorAll('.info-btn').forEach(btn=>{
+  btn.addEventListener('click', (e)=>{
+    e.stopPropagation();
+    const tip=document.getElementById(btn.dataset.tip);
+    const wasOpen=tip.classList.contains('open');
+    document.querySelectorAll('.tooltip').forEach(t=>t.classList.remove('open'));
+    document.querySelectorAll('.info-btn').forEach(b=>b.classList.remove('active'));
+    if(!wasOpen){
+      tip.classList.add('open');
+      btn.classList.add('active');
+    }
+  });
+});
+document.addEventListener('click', ()=>{
+  document.querySelectorAll('.tooltip').forEach(t=>t.classList.remove('open'));
+  document.querySelectorAll('.info-btn').forEach(b=>b.classList.remove('active'));
+});
+</script>
+</body>
+</html>

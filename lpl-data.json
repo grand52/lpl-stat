@@ -1,0 +1,659 @@
+{
+  "season": 19,
+  "league": "Grand League",
+  "matches": [
+    {
+      "match": 1,
+      "opponent": "Spartak.FC",
+      "score": "1072:1147"
+    },
+    {
+      "match": 2,
+      "opponent": "Diaspora Romana",
+      "score": "1137:1105"
+    },
+    {
+      "match": 3,
+      "opponent": "Spartak.FC",
+      "score": "1152:1141"
+    },
+    {
+      "match": 4,
+      "opponent": "ICONS Brasil",
+      "score": "1119:1125"
+    },
+    {
+      "match": 5,
+      "opponent": "Next Gen Arab's",
+      "score": "601:515"
+    },
+    {
+      "match": 6,
+      "opponent": "Spartanii Români",
+      "score": "1121:877"
+    },
+    {
+      "match": 7,
+      "opponent": "UKR Ukraine Team",
+      "score": "1169:1020"
+    }
+  ],
+  "players": [
+    {
+      "name": "GL·Фишер",
+      "goals": [
+        null,
+        40,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "average": 40.0,
+      "matches_played": 1
+    },
+    {
+      "name": "эсэба",
+      "goals": [
+        39,
+        null,
+        33,
+        35,
+        null,
+        38,
+        40
+      ],
+      "average": 37.0,
+      "matches_played": 5
+    },
+    {
+      "name": "GL·LokomotivMSK",
+      "goals": [
+        40,
+        37,
+        38,
+        40,
+        36,
+        35,
+        38
+      ],
+      "average": 37.71,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Ğødleşş",
+      "goals": [
+        40,
+        37,
+        34,
+        36,
+        null,
+        38,
+        39
+      ],
+      "average": 37.33,
+      "matches_played": 6
+    },
+    {
+      "name": "GL·MILAN",
+      "goals": [
+        35,
+        41,
+        34,
+        33,
+        35,
+        38,
+        38
+      ],
+      "average": 36.29,
+      "matches_played": 7
+    },
+    {
+      "name": "СамПОсебе",
+      "goals": [
+        36,
+        40,
+        38,
+        35,
+        40,
+        41,
+        40
+      ],
+      "average": 38.57,
+      "matches_played": 7
+    },
+    {
+      "name": "Лизун0",
+      "goals": [
+        38,
+        38,
+        36,
+        36,
+        40,
+        33,
+        39
+      ],
+      "average": 37.14,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Raital",
+      "goals": [
+        37,
+        38,
+        40,
+        40,
+        38,
+        40,
+        36
+      ],
+      "average": 38.43,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Assassin",
+      "goals": [
+        39,
+        36,
+        39,
+        35,
+        null,
+        36,
+        39
+      ],
+      "average": 37.33,
+      "matches_played": 6
+    },
+    {
+      "name": "GL·SENSA1",
+      "goals": [
+        36,
+        39,
+        38,
+        35,
+        34,
+        36,
+        41
+      ],
+      "average": 37.0,
+      "matches_played": 7
+    },
+    {
+      "name": "zloy32",
+      "goals": [
+        40,
+        34,
+        36,
+        37,
+        37,
+        35,
+        39
+      ],
+      "average": 36.86,
+      "matches_played": 7
+    },
+    {
+      "name": "Eclipse",
+      "goals": [
+        40,
+        34,
+        39,
+        39,
+        40,
+        43,
+        42
+      ],
+      "average": 39.57,
+      "matches_played": 7
+    },
+    {
+      "name": "beryyyyx1337",
+      "goals": [
+        36,
+        38,
+        37,
+        34,
+        null,
+        33,
+        33
+      ],
+      "average": 35.17,
+      "matches_played": 6
+    },
+    {
+      "name": "Taev",
+      "goals": [
+        38,
+        35,
+        41,
+        41,
+        39,
+        41,
+        38
+      ],
+      "average": 39.0,
+      "matches_played": 7
+    },
+    {
+      "name": "zloy'",
+      "goals": [
+        34,
+        39,
+        34,
+        36,
+        35,
+        31,
+        32
+      ],
+      "average": 34.43,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Acapellkazxc",
+      "goals": [
+        35,
+        37,
+        39,
+        38,
+        39,
+        39,
+        39
+      ],
+      "average": 38.0,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·feTFC",
+      "goals": [
+        38,
+        34,
+        37,
+        36,
+        null,
+        35,
+        33
+      ],
+      "average": 35.5,
+      "matches_played": 6
+    },
+    {
+      "name": "GL·KAISER",
+      "goals": [
+        35,
+        37,
+        38,
+        35,
+        38,
+        0,
+        36
+      ],
+      "average": 36.5,
+      "matches_played": 6
+    },
+    {
+      "name": "GL·TENDY",
+      "goals": [
+        null,
+        35,
+        34,
+        35,
+        null,
+        null,
+        null
+      ],
+      "average": 34.67,
+      "matches_played": 3
+    },
+    {
+      "name": "GL·Angarsk",
+      "goals": [
+        null,
+        35,
+        37,
+        36,
+        null,
+        37,
+        37
+      ],
+      "average": 36.4,
+      "matches_played": 5
+    },
+    {
+      "name": "GL·qupetv",
+      "goals": [
+        null,
+        35,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "average": 35.0,
+      "matches_played": 1
+    },
+    {
+      "name": "Kalamatrush",
+      "goals": [
+        34,
+        35,
+        31,
+        37,
+        null,
+        35,
+        21
+      ],
+      "average": 32.17,
+      "matches_played": 6
+    },
+    {
+      "name": "GL·AMSTERDAM",
+      "goals": [
+        37,
+        32,
+        40,
+        39,
+        39,
+        29,
+        36
+      ],
+      "average": 36.0,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Lizolil",
+      "goals": [
+        37,
+        32,
+        34,
+        39,
+        34,
+        35,
+        39
+      ],
+      "average": 35.71,
+      "matches_played": 7
+    },
+    {
+      "name": "GL·Tem1kTitan",
+      "goals": [
+        34,
+        34,
+        28,
+        null,
+        null,
+        31,
+        33
+      ],
+      "average": 32.0,
+      "matches_played": 5
+    },
+    {
+      "name": "Krapa",
+      "goals": [
+        34,
+        34,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "average": 34.0,
+      "matches_played": 2
+    },
+    {
+      "name": "Зенит78",
+      "goals": [
+        null,
+        34,
+        39,
+        36,
+        39,
+        37,
+        36
+      ],
+      "average": 36.83,
+      "matches_played": 6
+    },
+    {
+      "name": "AnGel",
+      "goals": [
+        41,
+        25,
+        42,
+        42,
+        null,
+        39,
+        37
+      ],
+      "average": 37.67,
+      "matches_played": 6
+    },
+    {
+      "name": "Геонуб",
+      "goals": [
+        33,
+        33,
+        31,
+        null,
+        null,
+        32,
+        null
+      ],
+      "average": 32.25,
+      "matches_played": 4
+    },
+    {
+      "name": "GL·Skywalker",
+      "goals": [
+        31,
+        33,
+        31,
+        null,
+        null,
+        36,
+        39
+      ],
+      "average": 34.0,
+      "matches_played": 5
+    },
+    {
+      "name": "GL·Arsenal",
+      "goals": [
+        26,
+        38,
+        38,
+        37,
+        38,
+        40,
+        41
+      ],
+      "average": 36.86,
+      "matches_played": 7
+    },
+    {
+      "name": "Maxmmm",
+      "goals": [
+        32,
+        32,
+        31,
+        null,
+        null,
+        32,
+        29
+      ],
+      "average": 31.2,
+      "matches_played": 5
+    },
+    {
+      "name": "GL·P1aton",
+      "goals": [
+        31,
+        null,
+        null,
+        null,
+        null,
+        null,
+        33
+      ],
+      "average": 32.0,
+      "matches_played": 2
+    },
+    {
+      "name": "Wincol",
+      "goals": [
+        29,
+        null,
+        null,
+        27,
+        null,
+        null,
+        null
+      ],
+      "average": 28.0,
+      "matches_played": 2
+    },
+    {
+      "name": "GL·SK1LL",
+      "goals": [
+        28,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "average": 28.0,
+      "matches_played": 1
+    },
+    {
+      "name": "pukko",
+      "goals": [
+        9,
+        36,
+        null,
+        null,
+        null,
+        35,
+        null
+      ],
+      "average": 26.67,
+      "matches_played": 3
+    },
+    {
+      "name": "Ultra",
+      "goals": [
+        0,
+        null,
+        33,
+        35,
+        null,
+        36,
+        33
+      ],
+      "average": 34.25,
+      "matches_played": 4
+    },
+    {
+      "name": "Iuna",
+      "goals": [
+        null,
+        null,
+        33,
+        null,
+        null,
+        null,
+        null
+      ],
+      "average": 33.0,
+      "matches_played": 1
+    },
+    {
+      "name": "Cristiano2828",
+      "goals": [
+        null,
+        null,
+        39,
+        34,
+        null,
+        41,
+        41
+      ],
+      "average": 38.75,
+      "matches_played": 4
+    },
+    {
+      "name": "GL·Shaverhan",
+      "goals": [
+        null,
+        null,
+        null,
+        34,
+        null,
+        34,
+        35
+      ],
+      "average": 34.33,
+      "matches_played": 3
+    },
+    {
+      "name": "GL·Tapt",
+      "goals": [
+        null,
+        null,
+        null,
+        35,
+        null,
+        null,
+        null
+      ],
+      "average": 35.0,
+      "matches_played": 1
+    },
+    {
+      "name": "miteryos27",
+      "goals": [
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null
+      ],
+      "average": null,
+      "matches_played": 0
+    },
+    {
+      "name": "winti",
+      "goals": [
+        null,
+        null,
+        null,
+        32,
+        null,
+        null,
+        null
+      ],
+      "average": 32.0,
+      "matches_played": 1
+    },
+    {
+      "name": "OPTIMUS·PRIME",
+      "goals": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        37
+      ],
+      "average": 37.0,
+      "matches_played": 1
+    }
+  ]
+}
