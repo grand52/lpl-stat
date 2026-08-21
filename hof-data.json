@@ -1,0 +1,65 @@
+{
+  "results": [
+    {
+      "tournament_id": "6967d4b005cc6c2238ea29ac",
+      "name": "GL CUP #12",
+      "chat_title": "Grand League",
+      "finished_at": "2026-02-01T12:00:00",
+      "first": "sevandrik",
+      "second": "Artem228030",
+      "third": [
+        "zaali_916",
+        "rokstarfc"
+      ]
+    },
+    {
+      "tournament_id": "69ad54259e3c43b78b350a76",
+      "name": "GL CUP #13",
+      "chat_title": "Grand League",
+      "finished_at": "2026-03-13T12:00:00",
+      "first": "sevandrik",
+      "second": "zaali_916",
+      "third": [
+        "steatv",
+        "younke_killer"
+      ]
+    },
+    {
+      "tournament_id": "69ef29e02e1748c8dea06b86",
+      "name": "GL VSA CUP #7",
+      "chat_title": "Grand League",
+      "finished_at": "2026-05-12T12:51:45.668000",
+      "first": "wakedupp",
+      "second": "platonm09",
+      "third": [
+        "MaestrooV",
+        "forsociopathh"
+      ]
+    },
+    {
+      "tournament_id": "6a087b2e4aa3a0a9404a3030",
+      "name": "GL CUP #14",
+      "chat_title": "Grand League",
+      "finished_at": "2026-06-02T20:27:21.475000",
+      "first": "zaali_916",
+      "second": "steatv",
+      "third": [
+        "sevandrik",
+        "s4BeR7"
+      ]
+    },
+    {
+      "tournament_id": "6a4eb60c1dc49fbbf48957c8",
+      "name": "GL CUP #15",
+      "chat_title": "Grand League",
+      "finished_at": "2026-07-28T21:32:17.749000",
+      "first": "Artem228030",
+      "second": "forsociopathh",
+      "third": [
+        "younke_killer",
+        "Muxtarkotak5as"
+      ]
+    }
+  ],
+  "updated": "2026-08-21T18:49:56.213888+00:00"
+}
