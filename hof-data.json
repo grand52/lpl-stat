@@ -59,7 +59,139 @@
         "younke_killer",
         "Muxtarkotak5as"
       ]
+    },
+    {
+      "tournament_id": "69aeadd9fed90fa2ffbaa74e",
+      "name": "WEEKEND CUP #6",
+      "chat_title": "HERO FC MOBILE",
+      "finished_at": "2026-03-16T12:00:00",
+      "first": "sevandrik",
+      "second": "AreyoufuckinTranchik",
+      "third": [
+        "freshl7",
+        "AraratFrFr"
+      ]
+    },
+    {
+      "tournament_id": "69c7c2b4e5329341de71a3dd",
+      "name": "ROCKET CUP #1",
+      "chat_title": "ROCKET CUP",
+      "finished_at": "2026-04-07T12:00:00",
+      "first": "s4BeR7",
+      "second": "sevandrik",
+      "third": [
+        "ssshhym",
+        "asensibleboy"
+      ]
+    },
+    {
+      "tournament_id": "69d8caf4ccc95dfc4c3afd34",
+      "name": "Регулярка H2H. Апрель",
+      "chat_title": "Клуб игроков FC25 и FC Mobile",
+      "finished_at": "2026-04-20T12:00:00",
+      "first": "zaali_916",
+      "second": "steatv",
+      "third": [
+        "sevandrik",
+        "найт пидорас"
+      ]
+    },
+    {
+      "tournament_id": "69dcb2f0c9d5ec551d9b7265",
+      "name": "WEEKEND CUP #7",
+      "chat_title": "HERO FC MOBILE",
+      "finished_at": "2026-04-18T12:00:00",
+      "first": "Muxtarkotak5as",
+      "second": "michlaevka",
+      "third": [
+        "nqtlas",
+        "sevandrik"
+      ]
+    },
+    {
+      "tournament_id": "69e7455c6277d359c4e2437c",
+      "name": "ROCKET CUP #2",
+      "chat_title": "ROCKET CUP",
+      "finished_at": "2026-05-03T12:00:00",
+      "first": "zaali_916",
+      "second": "Muxtarkotak5as",
+      "third": [
+        "freshl7",
+        "DarkPlayerr"
+      ]
+    },
+    {
+      "tournament_id": "69f31516f3a8c11aa7826400",
+      "name": "Регулярка H2H. Май",
+      "chat_title": "Клуб игроков FC25 и FC Mobile",
+      "finished_at": "2026-05-22T20:52:18.079000",
+      "first": "zaali_916",
+      "second": "sevandrik",
+      "third": [
+        "onvamnemihaaa",
+        "DarkPlayerr"
+      ]
+    },
+    {
+      "tournament_id": "69f622dadf8e55da5de712d1",
+      "name": "SOLO H2H",
+      "chat_title": "HERO FC MOBILE",
+      "finished_at": "2026-05-10T20:46:18.434000",
+      "first": "steatv",
+      "second": "freshl7",
+      "third": [
+        "MURADHIG",
+        "sevandrik"
+      ]
+    },
+    {
+      "tournament_id": "6a20606a92e0df1c2045de49",
+      "name": "FIFA WORLD CUP",
+      "chat_title": "HERO FC MOBILE",
+      "finished_at": "2026-06-13T20:02:28.404000",
+      "first": "younke_killer",
+      "second": "freshl7",
+      "third": [
+        "madisonshining",
+        "supo717"
+      ]
+    },
+    {
+      "tournament_id": "6a5b4dbafe6fded789e3722f",
+      "name": "ROCKET CUP #3",
+      "chat_title": "ROCKET CUP",
+      "finished_at": "2026-07-28T21:13:13.834000",
+      "first": "Artem228030",
+      "second": "zaali_916",
+      "third": [
+        "s4BeR7",
+        "Muxtarkotak5as"
+      ]
+    },
+    {
+      "tournament_id": "6a6a1e2127a13a12b2cc65bd",
+      "name": "ROCKET CUP #4",
+      "chat_title": "ROCKET CUP",
+      "finished_at": "2026-08-10T20:30:23.084000",
+      "first": "asensibleboy",
+      "second": "steatv",
+      "third": [
+        "zaali_916",
+        "Artem228030"
+      ]
+    },
+    {
+      "tournament_id": "6a6f868a257944b1c46442ad",
+      "name": "Grand Light Cup #3",
+      "chat_title": "GRAND LEAGUE 2",
+      "finished_at": "2026-08-20T17:36:02.064000",
+      "first": "lizolil",
+      "second": "drenavorix",
+      "third": [
+        "mentalyte",
+        "jms1242"
+      ]
     }
   ],
-  "updated": "2026-08-21T18:49:56.213888+00:00"
+  "updated": "2026-08-21T19:29:23.474966+00:00"
 }
