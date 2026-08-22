@@ -224,7 +224,40 @@
       "third": [
         "ultwakanat"
       ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-4",
+      "name": "GL CUP #4",
+      "chat_title": "Grand League",
+      "finished_at": "2025-01-10T12:00:00",
+      "first": "freshl66",
+      "second": "P1aton_11",
+      "third": [
+        "zaali_916"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-5",
+      "name": "GL CUP #5",
+      "chat_title": "Grand League",
+      "finished_at": "2025-02-18T12:00:00",
+      "first": "P1aton_11",
+      "second": "freshl66",
+      "third": [
+        "LPforvr"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-6",
+      "name": "GL CUP #6",
+      "chat_title": "Grand League",
+      "finished_at": "2025-03-15T12:00:00",
+      "first": "P1aton_11",
+      "second": "freshl66",
+      "third": [
+        "Loki12948"
+      ]
     }
   ],
-  "updated": "2026-08-22T06:44:22.806472+00:00"
+  "updated": "2026-08-22T06:49:41.165979+00:00"
 }
