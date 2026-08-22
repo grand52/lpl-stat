@@ -292,7 +292,30 @@
       "third": [
         "freshl66"
       ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-10",
+      "name": "GL CUP #10",
+      "chat_title": "Grand League",
+      "finished_at": "2025-10-13T12:00:00",
+      "first": "Vunderkind229",
+      "second": "P1aton_11",
+      "third": [
+        "s4BeR7"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-11",
+      "name": "GL CUP #11",
+      "chat_title": "Grand League",
+      "finished_at": "2025-11-16T12:00:00",
+      "first": "sevandrik",
+      "second": "s4BeR7",
+      "third": [
+        "P1aton_11",
+        "VLaDxOmarkya"
+      ]
     }
   ],
-  "updated": "2026-08-22T06:52:50.140486+00:00"
+  "updated": "2026-08-22T06:59:38.374718+00:00"
 }
