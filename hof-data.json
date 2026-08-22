@@ -257,7 +257,42 @@
       "third": [
         "Loki12948"
       ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-7",
+      "name": "GL CUP #7",
+      "chat_title": "Grand League",
+      "finished_at": "2025-06-12T12:00:00",
+      "first": "sevandrik",
+      "second": "P1aton_11",
+      "third": [
+        "Lardyear",
+        "jooagoo"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-8",
+      "name": "GL CUP #8",
+      "chat_title": "Grand League",
+      "finished_at": "2025-07-23T12:00:00",
+      "first": "younke_killer",
+      "second": "sevandrik",
+      "third": [
+        "GeneralFCm",
+        "tagaevvn"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-9",
+      "name": "GL CUP #9",
+      "chat_title": "Grand League",
+      "finished_at": "2025-09-04T12:00:00",
+      "first": "sevandrik",
+      "second": "zaali_916",
+      "third": [
+        "freshl66"
+      ]
     }
   ],
-  "updated": "2026-08-22T06:49:41.165979+00:00"
+  "updated": "2026-08-22T06:52:50.140486+00:00"
 }
