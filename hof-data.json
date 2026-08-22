@@ -191,7 +191,40 @@
         "mentalyte",
         "jms1242"
       ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-1",
+      "name": "GL CUP #1",
+      "chat_title": "Grand League",
+      "finished_at": "2024-10-29T12:00:00",
+      "first": "Maesttaani",
+      "second": "P1aton_11",
+      "third": [
+        "ultwakanat"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-2",
+      "name": "GL CUP #2",
+      "chat_title": "Grand League",
+      "finished_at": "2024-11-21T12:00:00",
+      "first": "P1aton_11",
+      "second": "Fedotj",
+      "third": [
+        "ultwakanat"
+      ]
+    },
+    {
+      "tournament_id": "manual-gl-cup-3",
+      "name": "GL CUP #3",
+      "chat_title": "Grand League",
+      "finished_at": "2024-12-22T12:00:00",
+      "first": "Sanch_s",
+      "second": "zaali_916",
+      "third": [
+        "ultwakanat"
+      ]
     }
   ],
-  "updated": "2026-08-21T19:29:23.474966+00:00"
+  "updated": "2026-08-22T06:44:22.806472+00:00"
 }
