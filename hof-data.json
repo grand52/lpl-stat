@@ -355,6 +355,70 @@
         "platonm09",
         "Artem228030"
       ]
+    },
+    {
+      "tournament_id": "chat-vsa-cup-1",
+      "name": "GL VSA CUP #1",
+      "chat_title": "Grand League",
+      "is_vsa": true,
+      "finished_at": "2025-02-04T00:00:00",
+      "first": "ultwakanat",
+      "second": "gbkhnwww",
+      "third": [
+        "SHALYARUS"
+      ]
+    },
+    {
+      "tournament_id": "chat-vsa-cup-2",
+      "name": "GL VSA CUP #2",
+      "chat_title": "Grand League",
+      "is_vsa": true,
+      "finished_at": "2025-05-13T00:00:00",
+      "first": "combat_unit17",
+      "second": "Bychara228",
+      "third": [
+        "P1aton_11",
+        "gbkhnwww"
+      ]
+    },
+    {
+      "tournament_id": "chat-vsa-cup-3",
+      "name": "GL VSA CUP #3",
+      "chat_title": "Grand League",
+      "is_vsa": true,
+      "finished_at": "2025-07-04T00:00:00",
+      "first": "kakoyto_chelovek7",
+      "second": "ultwakanat",
+      "third": [
+        "Lardyear",
+        "SHALYARUS"
+      ]
+    },
+    {
+      "tournament_id": "chat-vsa-cup-4",
+      "name": "GL VSA CUP #4",
+      "chat_title": "Grand League",
+      "is_vsa": true,
+      "finished_at": "2025-09-24T00:00:00",
+      "first": "sevandrik",
+      "second": "prostomaksx",
+      "third": [
+        "Bychara228",
+        "lizolil"
+      ]
+    },
+    {
+      "tournament_id": "chat-vsa-cup-5",
+      "name": "GL VSA CUP #5",
+      "chat_title": "Grand League",
+      "is_vsa": true,
+      "finished_at": "2025-11-06T00:00:00",
+      "first": "combat_unit17",
+      "second": "dezhozo",
+      "third": [
+        "kakoyto_chelovek7",
+        "a1zzen"
+      ]
     }
   ],
   "updated": "2026-08-22T11:07:48.304046+00:00"
