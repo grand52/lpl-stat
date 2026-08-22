@@ -342,7 +342,20 @@
         "VLaDxOmarkya"
       ],
       "is_vsa": false
+    },
+    {
+      "tournament_id": "6991c04491eef04fe31a0f1d",
+      "name": "GL VSA CUP #6",
+      "chat_title": "",
+      "is_vsa": true,
+      "finished_at": null,
+      "first": "steatv",
+      "second": "mentalyte",
+      "third": [
+        "platonm09",
+        "Artem228030"
+      ]
     }
   ],
-  "updated": "2026-08-22T07:06:48.942399+00:00"
+  "updated": "2026-08-22T11:07:48.304046+00:00"
 }
