@@ -419,7 +419,20 @@
         "kakoyto_chelovek7",
         "a1zzen"
       ]
+    },
+    {
+      "tournament_id": "6a7f5a3b3f2f8621b6d27807",
+      "name": "ROCKET CUP #5",
+      "chat_title": "ROCKET CUP",
+      "is_vsa": false,
+      "finished_at": "2026-08-23T16:48:08.077000",
+      "first": "Muxtarkotak5as",
+      "second": "DarkPlayerr",
+      "third": [
+        "zaali_916",
+        "steatv"
+      ]
     }
   ],
-  "updated": "2026-08-22T11:07:48.304046+00:00"
+  "updated": "2026-08-24T11:38:30.970424+00:00"
 }
