@@ -582,5 +582,45 @@
       "7777": 38,
       "VAPROFIFA": 39
     }
+  },
+  {
+    "match": 16,
+    "season": 20,
+    "opponent": "<C> Spartak",
+    "score": "1076:1164",
+    "goals": {
+      "zloy32": 0,
+      "deeplomotto": 38,
+      "Taev": 36,
+      "GL·LokomotivMSK": 38,
+      "AnGel": 41,
+      "Никитапро": 31,
+      "Eclipse": 35,
+      "GL·Фишер": 38,
+      "GL·AMSTERDAM": 33,
+      "GL·Arsenal": 36,
+      "GL·СамПОсебе": 39,
+      "GL·Lizolil": 31,
+      "7777": 37,
+      "CHOSO": 34,
+      "zloy'": 41,
+      "GL·feTFC": 34,
+      "VAPROFIFA": 36,
+      "Kalamatrush": 35,
+      "GL·SPARTAHEЦ": 34,
+      "GL·SENSA1": 33,
+      "GL·Raital": 37,
+      "Геонуб": 31,
+      "GL·qupetv": 40,
+      "GL·cube_X_boston": 38,
+      "GL·Krapa": 35,
+      "GL·Shaverhan": 29,
+      "эсэба": 0,
+      "GL·KAISER": 39,
+      "GL·Acapellkazxc": 41,
+      "Аккерман": 36,
+      "GL·Assassin": 31,
+      "GL·MILAN": 39
+    }
   }
 ]
