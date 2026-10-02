@@ -457,7 +457,20 @@
       "third": [
         "steatv"
       ]
+    },
+    {
+      "tournament_id": "6ab15b2ff587285c40038123",
+      "name": "LOW CUP",
+      "chat_title": "GL•CUPS",
+      "is_vsa": false,
+      "finished_at": "2026-10-01T20:51:32.174000",
+      "first": "kalax237",
+      "second": "sp1r1tVSA",
+      "third": [
+        "alexlakhtin",
+        "deeplomotto"
+      ]
     }
   ],
-  "updated": "2026-10-01T00:00:04.357917+00:00"
+  "updated": "2026-10-02T00:00:06.487341+00:00"
 }
