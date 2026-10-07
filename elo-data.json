@@ -7,16 +7,16 @@
       "games": 183
     },
     {
-      "user_id": "6090184809",
-      "name": "younke_killer",
-      "elo": 1309,
-      "games": 209
-    },
-    {
       "user_id": "7337285291",
       "name": "steatv",
-      "elo": 1275,
-      "games": 301
+      "elo": 1324,
+      "games": 309
+    },
+    {
+      "user_id": "6090184809",
+      "name": "younke_killer",
+      "elo": 1311,
+      "games": 213
     },
     {
       "user_id": "1241218984",
@@ -31,28 +31,22 @@
       "games": 207
     },
     {
+      "user_id": "5529304031",
+      "name": "Muxtarkotak5as",
+      "elo": 1229,
+      "games": 230
+    },
+    {
       "user_id": "6904583038",
       "name": "DarkPlayerr",
       "elo": 1225,
       "games": 123
     },
     {
-      "user_id": "5529304031",
-      "name": "Muxtarkotak5as",
-      "elo": 1221,
-      "games": 228
-    },
-    {
       "user_id": "975995221",
       "name": "zaali_916",
-      "elo": 1215,
-      "games": 302
-    },
-    {
-      "user_id": "1983464929",
-      "name": "Sosik18",
-      "elo": 1185,
-      "games": 41
+      "elo": 1211,
+      "games": 304
     },
     {
       "user_id": "6387547351",
@@ -79,10 +73,22 @@
       "games": 35
     },
     {
+      "user_id": "1983464929",
+      "name": "Sosik18",
+      "elo": 1166,
+      "games": 47
+    },
+    {
       "user_id": "1188889456",
       "name": "s4BeR7",
       "elo": 1165,
       "games": 220
+    },
+    {
+      "user_id": "1288805443",
+      "name": "vla_di4ok",
+      "elo": 1160,
+      "games": 48
     },
     {
       "user_id": "7038418535",
@@ -109,12 +115,6 @@
       "games": 239
     },
     {
-      "user_id": "1288805443",
-      "name": "vla_di4ok",
-      "elo": 1140,
-      "games": 44
-    },
-    {
       "user_id": "1636479595",
       "name": "ssshhym",
       "elo": 1134,
@@ -131,12 +131,6 @@
       "name": "supo717",
       "elo": 1133,
       "games": 115
-    },
-    {
-      "user_id": "747505552",
-      "name": "AreyoufuckinTranchik",
-      "elo": 1131,
-      "games": 35
     },
     {
       "user_id": "1950480511",
@@ -175,6 +169,12 @@
       "games": 31
     },
     {
+      "user_id": "747505552",
+      "name": "AreyoufuckinTranchik",
+      "elo": 1115,
+      "games": 37
+    },
+    {
       "user_id": "8201093432",
       "name": "nqtlas",
       "elo": 1115,
@@ -205,10 +205,16 @@
       "games": 156
     },
     {
-      "user_id": "472727679",
-      "name": "vadimvadimvadim2",
-      "elo": 1094,
-      "games": 6
+      "user_id": "1731882743",
+      "name": "Vasilevsius",
+      "elo": 1089,
+      "games": 9
+    },
+    {
+      "user_id": "7350502774",
+      "name": "Prizrakks",
+      "elo": 1087,
+      "games": 12
     },
     {
       "user_id": "1738293001",
@@ -247,10 +253,16 @@
       "games": 170
     },
     {
-      "user_id": "7350502774",
-      "name": "Prizrakks",
-      "elo": 1071,
-      "games": 10
+      "user_id": "472727679",
+      "name": "vadimvadimvadim2",
+      "elo": 1078,
+      "games": 8
+    },
+    {
+      "user_id": "5217796603",
+      "name": "fkm010",
+      "elo": 1068,
+      "games": 18
     },
     {
       "user_id": "723495486",
@@ -263,12 +275,6 @@
       "name": "drenavorix",
       "elo": 1067,
       "games": 18
-    },
-    {
-      "user_id": "1731882743",
-      "name": "Vasilevsius",
-      "elo": 1064,
-      "games": 7
     },
     {
       "user_id": "5791756295",
@@ -297,14 +303,20 @@
     {
       "user_id": "1491621612",
       "name": "Sh9ro_1701",
-      "elo": 1054,
-      "games": 14
+      "elo": 1052,
+      "games": 16
     },
     {
       "user_id": "713730631",
       "name": "ovinnikovr10",
       "elo": 1050,
       "games": 35
+    },
+    {
+      "user_id": "7844139549",
+      "name": "Rukha06",
+      "elo": 1050,
+      "games": 45
     },
     {
       "user_id": "386839714",
@@ -337,12 +349,6 @@
       "games": 13
     },
     {
-      "user_id": "7844139549",
-      "name": "Rukha06",
-      "elo": 1047,
-      "games": 41
-    },
-    {
       "user_id": "1996094164",
       "name": "sayvvel",
       "elo": 1046,
@@ -365,12 +371,6 @@
       "name": "AneSkywalker",
       "elo": 1043,
       "games": 21
-    },
-    {
-      "user_id": "5217796603",
-      "name": "fkm010",
-      "elo": 1041,
-      "games": 14
     },
     {
       "user_id": "5554021512",
@@ -571,12 +571,6 @@
       "games": 6
     },
     {
-      "user_id": "1150741121",
-      "name": "dleynn",
-      "elo": 1018,
-      "games": 7
-    },
-    {
       "user_id": "1044036818",
       "name": "найт пидорас",
       "elo": 1017,
@@ -589,16 +583,22 @@
       "games": 16
     },
     {
-      "user_id": "2065531418",
-      "name": "cristiano28ronaldo",
-      "elo": 1016,
-      "games": 39
-    },
-    {
       "user_id": "6348792695",
       "name": "MURADHIG",
       "elo": 1015,
       "games": 99
+    },
+    {
+      "user_id": "8645034109",
+      "name": "joeyhuichan",
+      "elo": 1014,
+      "games": 31
+    },
+    {
+      "user_id": "5275817655",
+      "name": "Jafffaaaar",
+      "elo": 1013,
+      "games": 4
     }
   ],
   "vsa": [
@@ -747,5 +747,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-06T00:00:04.519119+00:00"
+  "updated": "2026-10-07T00:00:04.174401+00:00"
 }
