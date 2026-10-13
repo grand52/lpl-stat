@@ -3,8 +3,8 @@
     {
       "user_id": "606873629",
       "name": "P1aton_11",
-      "elo": 1371,
-      "games": 189
+      "elo": 1348,
+      "games": 194
     },
     {
       "user_id": "7337285291",
@@ -19,16 +19,16 @@
       "games": 219
     },
     {
+      "user_id": "5529304031",
+      "name": "Muxtarkotak5as",
+      "elo": 1250,
+      "games": 237
+    },
+    {
       "user_id": "1241218984",
       "name": "asensibleboy",
       "elo": 1243,
       "games": 82
-    },
-    {
-      "user_id": "5529304031",
-      "name": "Muxtarkotak5as",
-      "elo": 1225,
-      "games": 234
     },
     {
       "user_id": "6904583038",
@@ -49,6 +49,12 @@
       "games": 207
     },
     {
+      "user_id": "7114302211",
+      "name": "Nihi1us",
+      "elo": 1186,
+      "games": 184
+    },
+    {
       "user_id": "1326782866",
       "name": "Artem228030",
       "elo": 1180,
@@ -61,6 +67,12 @@
       "games": 94
     },
     {
+      "user_id": "5495842140",
+      "name": "kalax237",
+      "elo": 1177,
+      "games": 111
+    },
+    {
       "user_id": "8781003426",
       "name": "zhasik9",
       "elo": 1167,
@@ -71,18 +83,6 @@
       "name": "s4BeR7",
       "elo": 1165,
       "games": 220
-    },
-    {
-      "user_id": "7114302211",
-      "name": "Nihi1us",
-      "elo": 1164,
-      "games": 179
-    },
-    {
-      "user_id": "1288805443",
-      "name": "vla_di4ok",
-      "elo": 1160,
-      "games": 50
     },
     {
       "user_id": "7038418535",
@@ -103,6 +103,12 @@
       "games": 21
     },
     {
+      "user_id": "8201093432",
+      "name": "nqtlas",
+      "elo": 1153,
+      "games": 232
+    },
+    {
       "user_id": "1753511136",
       "name": "CrystalW1zard",
       "elo": 1151,
@@ -113,24 +119,6 @@
       "name": "sevandrik",
       "elo": 1147,
       "games": 239
-    },
-    {
-      "user_id": "5495842140",
-      "name": "kalax237",
-      "elo": 1145,
-      "games": 107
-    },
-    {
-      "user_id": "1983464929",
-      "name": "Sosik18",
-      "elo": 1143,
-      "games": 51
-    },
-    {
-      "user_id": "8201093432",
-      "name": "nqtlas",
-      "elo": 1135,
-      "games": 225
     },
     {
       "user_id": "1636479595",
@@ -163,10 +151,16 @@
       "games": 83
     },
     {
-      "user_id": "5720190826",
-      "name": "amirgunner",
+      "user_id": "1390464798",
+      "name": "AdolfKen",
+      "elo": 1130,
+      "games": 182
+    },
+    {
+      "user_id": "1288805443",
+      "name": "vla_di4ok",
       "elo": 1128,
-      "games": 66
+      "games": 54
     },
     {
       "user_id": "404396984",
@@ -187,22 +181,16 @@
       "games": 30
     },
     {
-      "user_id": "6278978524",
-      "name": "Lokomotiv_FCLM",
-      "elo": 1114,
-      "games": 183
+      "user_id": "1983464929",
+      "name": "Sosik18",
+      "elo": 1105,
+      "games": 61
     },
     {
       "user_id": "5042197721",
       "name": "unstopp4blee",
       "elo": 1105,
       "games": 29
-    },
-    {
-      "user_id": "7901430350",
-      "name": "Roman228sh",
-      "elo": 1100,
-      "games": 18
     },
     {
       "user_id": "5623147689",
@@ -217,10 +205,10 @@
       "games": 48
     },
     {
-      "user_id": "1390464798",
-      "name": "AdolfKen",
+      "user_id": "6278978524",
+      "name": "Lokomotiv_FCLM",
       "elo": 1092,
-      "games": 172
+      "games": 188
     },
     {
       "user_id": "1731882743",
@@ -247,6 +235,12 @@
       "games": 92
     },
     {
+      "user_id": "7901430350",
+      "name": "Roman228sh",
+      "elo": 1082,
+      "games": 25
+    },
+    {
       "user_id": "5944314187",
       "name": "Moazhmed1",
       "elo": 1081,
@@ -265,6 +259,18 @@
       "games": 20
     },
     {
+      "user_id": "8743830645",
+      "name": "shb702vv",
+      "elo": 1074,
+      "games": 30
+    },
+    {
+      "user_id": "1491621612",
+      "name": "Sh9ro_1701",
+      "elo": 1072,
+      "games": 25
+    },
+    {
       "user_id": "386839714",
       "name": "tekstilhik",
       "elo": 1070,
@@ -275,6 +281,12 @@
       "name": "ls1428",
       "elo": 1067,
       "games": 15
+    },
+    {
+      "user_id": "2065531418",
+      "name": "cristiano28ronaldo",
+      "elo": 1067,
+      "games": 54
     },
     {
       "user_id": "6059995816",
@@ -299,12 +311,6 @@
       "name": "vadimvadimvadim2",
       "elo": 1060,
       "games": 14
-    },
-    {
-      "user_id": "2065531418",
-      "name": "cristiano28ronaldo",
-      "elo": 1058,
-      "games": 49
     },
     {
       "user_id": "5791756295",
@@ -335,12 +341,6 @@
       "name": "ovinnikovr10",
       "elo": 1050,
       "games": 35
-    },
-    {
-      "user_id": "1491621612",
-      "name": "Sh9ro_1701",
-      "elo": 1049,
-      "games": 20
     },
     {
       "user_id": "5581905553",
@@ -383,6 +383,12 @@
       "name": "AneSkywalker",
       "elo": 1043,
       "games": 21
+    },
+    {
+      "user_id": "5720190826",
+      "name": "amirgunner",
+      "elo": 1042,
+      "games": 74
     },
     {
       "user_id": "5554021512",
@@ -503,12 +509,6 @@
       "name": "andreyrrj95",
       "elo": 1022,
       "games": 10
-    },
-    {
-      "user_id": "8743830645",
-      "name": "shb702vv",
-      "elo": 1022,
-      "games": 24
     },
     {
       "user_id": "5481813937",
@@ -747,5 +747,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-12T00:00:04.550524+00:00"
+  "updated": "2026-10-13T00:00:04.426074+00:00"
 }
