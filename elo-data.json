@@ -43,22 +43,28 @@
       "games": 312
     },
     {
-      "user_id": "1837052908",
-      "name": "freshl7",
-      "elo": 1192,
-      "games": 207
-    },
-    {
       "user_id": "7114302211",
       "name": "Nihi1us",
       "elo": 1186,
       "games": 184
     },
     {
+      "user_id": "1837052908",
+      "name": "freshl7",
+      "elo": 1181,
+      "games": 216
+    },
+    {
       "user_id": "1326782866",
       "name": "Artem228030",
       "elo": 1180,
       "games": 174
+    },
+    {
+      "user_id": "1753511136",
+      "name": "CrystalW1zard",
+      "elo": 1180,
+      "games": 69
     },
     {
       "user_id": "6387547351",
@@ -91,28 +97,22 @@
       "games": 24
     },
     {
-      "user_id": "747505552",
-      "name": "AreyoufuckinTranchik",
-      "elo": 1157,
-      "games": 45
-    },
-    {
       "user_id": "6247982353",
       "name": "kBanditsTeam",
       "elo": 1157,
       "games": 21
     },
     {
+      "user_id": "747505552",
+      "name": "AreyoufuckinTranchik",
+      "elo": 1155,
+      "games": 52
+    },
+    {
       "user_id": "8201093432",
       "name": "nqtlas",
       "elo": 1153,
       "games": 232
-    },
-    {
-      "user_id": "1753511136",
-      "name": "CrystalW1zard",
-      "elo": 1151,
-      "games": 65
     },
     {
       "user_id": "1480258437",
@@ -231,8 +231,8 @@
     {
       "user_id": "1429077591",
       "name": "latviyske_pivo",
-      "elo": 1082,
-      "games": 92
+      "elo": 1084,
+      "games": 99
     },
     {
       "user_id": "7901430350",
@@ -293,12 +293,6 @@
       "name": "drenavorix",
       "elo": 1067,
       "games": 18
-    },
-    {
-      "user_id": "6397039221",
-      "name": "Miqo313",
-      "elo": 1064,
-      "games": 64
     },
     {
       "user_id": "7350502774",
@@ -367,6 +361,12 @@
       "games": 15
     },
     {
+      "user_id": "1056949531",
+      "name": "Krapavv",
+      "elo": 1046,
+      "games": 59
+    },
+    {
       "user_id": "8708960374",
       "name": "zeminoy",
       "elo": 1044,
@@ -433,10 +433,10 @@
       "games": 10
     },
     {
-      "user_id": "1056949531",
-      "name": "Krapavv",
+      "user_id": "6397039221",
+      "name": "Miqo313",
       "elo": 1035,
-      "games": 50
+      "games": 68
     },
     {
       "user_id": "5758619409",
@@ -747,5 +747,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-13T00:00:04.426074+00:00"
+  "updated": "2026-10-14T00:00:04.489518+00:00"
 }
