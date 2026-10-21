@@ -20,7 +20,6 @@
       "zloy'": 34,
       "GL·Acapellkazxc": 35,
       "GL·feTFC": 38,
-      "GL·KAISER": 35,
       "GL·AMSTERDAM": 37,
       "GL·Lizolil": 37,
       "GL·Tem1kTitan": 34,
@@ -35,7 +34,8 @@
       "GL·SK1LL": 28,
       "Ultra": 0,
       "GL·Krypton": 34,
-      "pukko": 9
+      "pukko": 9,
+      "GL·acujan": 35
     },
     "season": 19
   },
@@ -60,7 +60,6 @@
       "zloy'": 39,
       "GL·Acapellkazxc": 37,
       "GL·feTFC": 34,
-      "GL·KAISER": 37,
       "GL·Angarsk": 35,
       "GL·qupetv": 35,
       "GL·AMSTERDAM": 32,
@@ -75,7 +74,8 @@
       "Никитапро": 34,
       "GL·Krypton": 35,
       "AC·Tendy": 35,
-      "pukko": 36
+      "pukko": 36,
+      "GL·acujan": 37
     },
     "season": 19
   },
@@ -100,7 +100,6 @@
       "zloy'": 34,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 37,
-      "GL·KAISER": 38,
       "GL·Angarsk": 37,
       "GL·AMSTERDAM": 40,
       "GL·Lizolil": 34,
@@ -115,7 +114,8 @@
       "Cristiano2828": 39,
       "Никитапро": 39,
       "GL·Krypton": 31,
-      "AC·Tendy": 34
+      "AC·Tendy": 34,
+      "GL·acujan": 38
     },
     "season": 19
   },
@@ -140,7 +140,6 @@
       "zloy'": 36,
       "GL·Acapellkazxc": 38,
       "GL·feTFC": 36,
-      "GL·KAISER": 35,
       "GL·Angarsk": 36,
       "GL·AMSTERDAM": 39,
       "GL·Lizolil": 39,
@@ -155,7 +154,8 @@
       "Никитапро": 36,
       "GL·Krypton": 37,
       "AC·Tendy": 35,
-      "GL·Тарт": 35
+      "GL·Тарт": 35,
+      "GL·acujan": 35
     },
     "season": 19
   },
@@ -175,11 +175,11 @@
       "Taev": 39,
       "zloy'": 35,
       "GL·Acapellkazxc": 39,
-      "GL·KAISER": 38,
       "GL·AMSTERDAM": 39,
       "GL·Lizolil": 34,
       "GL·Arsenal": 38,
-      "Никитапро": 39
+      "Никитапро": 39,
+      "GL·acujan": 38
     },
     "season": 19
   },
@@ -204,7 +204,6 @@
       "zloy'": 31,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 35,
-      "GL·KAISER": 0,
       "GL·Angarsk": 37,
       "GL·AMSTERDAM": 29,
       "GL·Lizolil": 35,
@@ -219,7 +218,8 @@
       "GL·Shaverhan": 34,
       "Никитапро": 37,
       "GL·Krypton": 35,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 0
     },
     "season": 19
   },
@@ -244,7 +244,6 @@
       "zloy'": 32,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 33,
-      "GL·KAISER": 36,
       "GL·Angarsk": 37,
       "GL·AMSTERDAM": 36,
       "GL·Lizolil": 39,
@@ -259,7 +258,8 @@
       "GL·Shaverhan": 35,
       "OPTIMUS·PRIME": 37,
       "Никитапро": 36,
-      "GL·Krypton": 21
+      "GL·Krypton": 21,
+      "GL·acujan": 36
     },
     "season": 19
   },
@@ -285,7 +285,6 @@
       "zloy'": 39,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 35,
-      "GL·KAISER": 37,
       "GL·Angarsk": 0,
       "GL·qupetv": 38,
       "GL·AMSTERDAM": 41,
@@ -299,7 +298,8 @@
       "Никитапро": 36,
       "GL·Krypton": 37,
       "AC·Tendy": 26,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 37
     },
     "season": 19
   },
@@ -325,7 +325,6 @@
       "zloy'": 34,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 35,
-      "GL·KAISER": 36,
       "GL·AMSTERDAM": 35,
       "GL·Lizolil": 33,
       "GL·Tem1kTitan": 39,
@@ -339,7 +338,8 @@
       "winti": 32,
       "OPTIMUS·PRIME": 36,
       "Никитапро": 38,
-      "GL·Krypton": 24
+      "GL·Krypton": 24,
+      "GL·acujan": 36
     },
     "season": 19
   },
@@ -364,7 +364,6 @@
       "zloy'": 35,
       "GL·Acapellkazxc": 38,
       "GL·feTFC": 35,
-      "GL·KAISER": 36,
       "GL·AMSTERDAM": 41,
       "GL·Lizolil": 34,
       "GL·Tem1kTitan": 0,
@@ -379,7 +378,8 @@
       "Никитапро": 35,
       "Toose": 30,
       "GL·Krypton": 40,
-      "pukko": 36
+      "pukko": 36,
+      "GL·acujan": 36
     },
     "season": 19
   },
@@ -404,7 +404,6 @@
       "zloy'": 37,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 34,
-      "GL·KAISER": 37,
       "GL·AMSTERDAM": 37,
       "GL·Lizolil": 38,
       "GL·Tem1kTitan": 34,
@@ -420,7 +419,8 @@
       "GL·Kenwood": 32,
       "Billy_591": 36,
       "GL·Krypton": 38,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 37
     }
   },
   {
@@ -444,7 +444,6 @@
       "zloy'": 36,
       "GL·Acapellkazxc": 39,
       "GL·feTFC": 35,
-      "GL·KAISER": 37,
       "GL·qupetv": 41,
       "GL·AMSTERDAM": 40,
       "GL·Lizolil": 37,
@@ -460,7 +459,8 @@
       "AuraBroAura88888": 33,
       "Billy_591": 40,
       "GL·Krypton": 38,
-      "AC·Tendy": 41
+      "AC·Tendy": 41,
+      "GL·acujan": 37
     }
   },
   {
@@ -484,7 +484,6 @@
       "zloy'": 38,
       "GL·Acapellkazxc": 40,
       "GL·feTFC": 34,
-      "GL·KAISER": 38,
       "GL·qupetv": 40,
       "GL·AMSTERDAM": 36,
       "GL·Lizolil": 39,
@@ -500,7 +499,8 @@
       "GL·frenZ4is": 36,
       "Billy_591": 34,
       "GL·Krypton": 36,
-      "AC·Tendy": 31
+      "AC·Tendy": 31,
+      "GL·acujan": 38
     }
   },
   {
@@ -524,7 +524,6 @@
       "zloy'": 37,
       "GL·Acapellkazxc": 38,
       "GL·feTFC": 38,
-      "GL·KAISER": 33,
       "GL·qupetv": 40,
       "GL·AMSTERDAM": 34,
       "GL·Lizolil": 34,
@@ -540,7 +539,8 @@
       "GL·Kenwood": 32,
       "GL·frenZ4is": 37,
       "GL·Krypton": 37,
-      "pukko": 32
+      "pukko": 32,
+      "GL·acujan": 33
     }
   },
   {
@@ -563,7 +563,6 @@
       "zloy'": 34,
       "GL·Acapellkazxc": 38,
       "GL·feTFC": 36,
-      "GL·KAISER": 39,
       "GL·qupetv": 40,
       "GL·AMSTERDAM": 38,
       "GL·Lizolil": 18,
@@ -580,7 +579,8 @@
       "GL·frenZ4is": 36,
       "Billy_591": 34,
       "GL·Krypton": 37,
-      "pukko": 0
+      "pukko": 0,
+      "GL·acujan": 39
     }
   },
   {
@@ -613,14 +613,14 @@
       "GL·Krapa": 35,
       "GL·Shaverhan": 29,
       "эсэба": 0,
-      "GL·KAISER": 39,
       "GL·Acapellkazxc": 41,
       "GL·Assassin": 31,
       "GL·MILAN": 39,
       "GL·Kenwood": 36,
       "GL·frenZ4is": 34,
       "Billy_591": 38,
-      "GL·Krypton": 35
+      "GL·Krypton": 35,
+      "GL·acujan": 39
     }
   },
   {
@@ -653,14 +653,14 @@
       "GL·Acapellkazxc": 36,
       "GL·Krapa": 37,
       "OPTIMUS·PRIME": 35,
-      "GL·KAISER": 35,
       "GL·Assassin": 32,
       "GL·Ğødleşş": 36,
       "GL·MILAN": 35,
       "GL·Kenwood": 35,
       "GL·frenZ4is": 34,
       "Billy_591": 37,
-      "GL·Krypton": 36
+      "GL·Krypton": 36,
+      "GL·acujan": 35
     }
   },
   {
@@ -682,7 +682,6 @@
       "Taev": 34,
       "GL·Acapellkazxc": 40,
       "GL·feTFC": 33,
-      "GL·KAISER": 33,
       "GL·qupetv": 40,
       "GL·AMSTERDAM": 37,
       "GL·Lizolil": 35,
@@ -700,7 +699,8 @@
       "Billy_591": 33,
       "GL·Krypton": 39,
       "AC·Tendy": 28,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 33
     }
   },
   {
@@ -721,7 +721,6 @@
       "GL·Lizolil": 37,
       "zloy'": 35,
       "GL·AMSTERDAM": 38,
-      "GL·KAISER": 38,
       "GL·Raital": 38,
       "Геонуб": 39,
       "GL·feTFC": 35,
@@ -740,7 +739,8 @@
       "AC·Tendy": 39,
       "GL·Gratz": 34,
       "GL·Тарт": 35,
-      "pukko": 37
+      "pukko": 37,
+      "GL·acujan": 38
     }
   },
   {
@@ -764,7 +764,6 @@
       "GL·SPARTAHEЦ": 38,
       "GL·SENSA1": 35,
       "GL·AMSTERDAM": 39,
-      "GL·KAISER": 0,
       "Геонуб": 30,
       "Никитапро": 37,
       "zloy'": 35,
@@ -780,7 +779,8 @@
       "AC·Tendy": 34,
       "GL·Gratz": 0,
       "GL·Тарт": 30,
-      "pukko": 31
+      "pukko": 31,
+      "GL·acujan": 0
     }
   },
   {
@@ -801,7 +801,6 @@
       "GL·СамПОсебе": 35,
       "GL·Lizolil": 37,
       "GL·feTFC": 34,
-      "GL·KAISER": 38,
       "GL·SPARTAHEЦ": 36,
       "GL·AMSTERDAM": 37,
       "GL·Raital": 33,
@@ -820,7 +819,8 @@
       "AC·Tendy": 38,
       "GL·Gratz": 33,
       "GL·Тарт": 33,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 38
     }
   },
   {
@@ -832,7 +832,6 @@
       "GL·LokomotivMSK": 37,
       "zloy32": 38,
       "Taev": 26,
-      "GL·KAISER": 38,
       "GL·MILAN": 38,
       "AnGel": 38,
       "Никитапро": 36,
@@ -860,7 +859,8 @@
       "AC·Tendy": 35,
       "GL·Gratz": 33,
       "GL·Тарт": 34,
-      "pukko": 36
+      "pukko": 36,
+      "GL·acujan": 38
     }
   },
   {
@@ -872,7 +872,6 @@
       "zloy32": 34,
       "Taev": 36,
       "GL·LokomotivMSK": 35,
-      "GL·KAISER": 35,
       "GL·Lizolil": 35,
       "GL·СамПОсебе": 32,
       "Никитапро": 36,
@@ -900,7 +899,8 @@
       "AC·Tendy": 34,
       "GL·Gratz": 37,
       "GL·Тарт": 35,
-      "pukko": 37
+      "pukko": 37,
+      "GL·acujan": 35
     }
   },
   {
@@ -912,7 +912,6 @@
       "zloy32": 0,
       "Taev": 0,
       "GL·LokomotivMSK": 39,
-      "GL·KAISER": 36,
       "Eclipse": 40,
       "GL·Lizolil": 37,
       "GL·СамПОсебе": 36,
@@ -940,7 +939,8 @@
       "AC·Tendy": 39,
       "GL·Gratz": 34,
       "GL·Тарт": 42,
-      "pukko": 36
+      "pukko": 36,
+      "GL·acujan": 36
     }
   },
   {
@@ -952,7 +952,6 @@
       "zloy32": 31,
       "Taev": 32,
       "GL·LokomotivMSK": 34,
-      "GL·KAISER": 39,
       "Eclipse": 37,
       "deeplomotto": 38,
       "GL·MILAN": 38,
@@ -980,7 +979,8 @@
       "GL·Krypton": 39,
       "GL·Gratz": 34,
       "GL·Тарт": 34,
-      "pukko": 38
+      "pukko": 38,
+      "GL·acujan": 39
     }
   },
   {
@@ -989,7 +989,6 @@
     "opponent": "Ghost✕Champions",
     "score": "1091:1077",
     "goals": {
-      "GL·KAISER": 39,
       "Eclipse": 35,
       "zloy32": 32,
       "Taev": 36,
@@ -1020,7 +1019,8 @@
       "AC·Tendy": 37,
       "GL·Gratz": 33,
       "GL·Тарт": 31,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 39
     }
   },
   {
@@ -1035,7 +1035,6 @@
       "GL·MILAN": 39,
       "deeplomotto": 38,
       "Taev": 37,
-      "GL·KAISER": 37,
       "GL·Krapa": 32,
       "GL·Arsenal": 31,
       "7777": 32,
@@ -1060,7 +1059,8 @@
       "AC·Tendy": 36,
       "GL·Gratz": 31,
       "GL·Тарт": 34,
-      "pukko": 32
+      "pukko": 32,
+      "GL·acujan": 37
     }
   },
   {
@@ -1069,7 +1069,6 @@
     "opponent": "BwSTL Premier",
     "score": "1127:1020",
     "goals": {
-      "GL·KAISER": 40,
       "Eclipse": 38,
       "zloy32": 38,
       "Taev": 38,
@@ -1100,7 +1099,8 @@
       "AC·Tendy": 36,
       "GL·Gratz": 38,
       "GL·Тарт": 34,
-      "pukko": 30
+      "pukko": 30,
+      "GL·acujan": 40
     }
   },
   {
@@ -1120,7 +1120,6 @@
       "GL·Lizolil": 35,
       "GL·feTFC": 36,
       "GL·SENSA1": 33,
-      "GL·KAISER": 37,
       "GL·MILAN": 37,
       "Геонуб": 32,
       "GL·Raital": 37,
@@ -1140,7 +1139,8 @@
       "AC·Tendy": 33,
       "GL·Gratz": 37,
       "GL·Тарт": 32,
-      "pukko": 30
+      "pukko": 30,
+      "GL·acujan": 37
     }
   },
   {
@@ -1169,7 +1169,6 @@
       "GL·SENSA1": 36,
       "GL·Raital": 39,
       "Геонуб": 32,
-      "GL·KAISER": 36,
       "GL·HERMANITO": 35,
       "GL·Krypton": 34,
       "GL·frenZ4is": 30,
@@ -1180,7 +1179,8 @@
       "GL·qupetv": 35,
       "AC·Tendy": 34,
       "GL·Gratz": 33,
-      "GL·Тарт": 37
+      "GL·Тарт": 37,
+      "GL·acujan": 36
     }
   },
   {
@@ -1211,7 +1211,6 @@
       "Геонуб": 33,
       "RussianTikiTaka": 34,
       "Taev": 40,
-      "GL·KAISER": 32,
       "GL·qupetv": 40,
       "≡DEMON≡": 35,
       "GL·Krypton": 34,
@@ -1220,7 +1219,8 @@
       "vot9koff": 34,
       "GL·HERMANITO": 33,
       "AC·Tendy": 42,
-      "GL·Gratz": 40
+      "GL·Gratz": 40,
+      "GL·acujan": 32
     }
   },
   {
@@ -1238,7 +1238,6 @@
       "Eclipse": 36,
       "zloy32": 37,
       "GL·LokomotivMSK": 35,
-      "GL·KAISER": 39,
       "RussianTikiTaka": 33,
       "Никитапро": 35,
       "GL·MILAN": 38,
@@ -1260,7 +1259,8 @@
       "AC·Tendy": 33,
       "GL·Gratz": 37,
       "AnGel": 37,
-      "pukko": 31
+      "pukko": 31,
+      "GL·acujan": 39
     }
   },
   {
@@ -1280,7 +1280,6 @@
       "deeplomotto": 36,
       "zloy32": 10,
       "Eclipse": 38,
-      "GL·KAISER": 33,
       "≡DEMON≡": 32,
       "GL·СамПОсебе": 39,
       "GL·Krapa": 35,
@@ -1300,7 +1299,8 @@
       "AC·Tendy": 37,
       "GL·Gratz": 37,
       "GL·PRIME": 36,
-      "pukko": 32
+      "pukko": 32,
+      "GL·acujan": 33
     }
   },
   {
@@ -1320,7 +1320,6 @@
       "deeplomotto": 39,
       "zloy32": 38,
       "Eclipse": 34,
-      "GL·KAISER": 35,
       "≡DEMON≡": 35,
       "GL·Acapellkazxc": 37,
       "GL·Arsenal": 35,
@@ -1340,7 +1339,8 @@
       "AC·Tendy": 41,
       "GL·Gratz": 34,
       "GL·Тарт": 33,
-      "GL·PRIME": 36
+      "GL·PRIME": 36,
+      "GL·acujan": 35
     }
   },
   {
@@ -1350,7 +1350,6 @@
     "score": "1111:730",
     "goals": {
       "Taev": 35,
-      "GL·KAISER": 37,
       "GL·Raital": 35,
       "GL·MILAN": 34,
       "RussianTikiTaka": 32,
@@ -1380,7 +1379,8 @@
       "AC·Tendy": 28,
       "GL·Gratz": 36,
       "GL·PRIME": 34,
-      "pukko": 0
+      "pukko": 0,
+      "GL·acujan": 37
     }
   },
   {
@@ -1409,7 +1409,6 @@
       "GL·MILAN": 41,
       "Никитапро": 38,
       "GL·Raital": 41,
-      "GL·KAISER": 37,
       "GL·Arsenal": 32,
       "Eclipse": 40,
       "zloy32": 35,
@@ -1420,7 +1419,8 @@
       "GL·Gratz": 34,
       "GL·PRIME": 33,
       "pukko": 34,
-      "Alex": 28
+      "Alex": 28,
+      "GL·acujan": 37
     }
   },
   {
@@ -1454,13 +1454,13 @@
       "Taev": 40,
       "deeplomotto": 38,
       "GL·Arsenal": 37,
-      "GL·KAISER": 34,
       "Никитапро": 33,
       "GL·MILAN": 40,
       "GL·СамПОсебе": 34,
       "GL·Gratz": 39,
       "GL·Тарт": 34,
-      "GL·PRIME": 32
+      "GL·PRIME": 32,
+      "GL·acujan": 34
     }
   },
   {
@@ -1489,7 +1489,6 @@
       "GL·Krapa": 36,
       "GL·AMSTERDAM": 37,
       "Геонуб": 39,
-      "GL·KAISER": 33,
       "GL·Lizolil": 37,
       "GL·Krypton": 36,
       "GL·HERMANITO": 35,
@@ -1500,7 +1499,8 @@
       "GL·Тарт": 32,
       "GL·Gratz": 20,
       "GL·PRIME": 34,
-      "pukko": 34
+      "pukko": 34,
+      "GL·acujan": 33
     }
   },
   {
@@ -1522,7 +1522,6 @@
       "deeplomotto": 34,
       "zloy32": 33,
       "Eclipse": 37,
-      "GL·KAISER": 32,
       "GL·Raital": 39,
       "GL·Acapellkazxc": 38,
       "≡DEMON≡": 36,
@@ -1540,7 +1539,8 @@
       "GL·MILAN": 37,
       "vot9koff": 32,
       "GL·PRIME": 35,
-      "Alex": 32
+      "Alex": 32,
+      "GL·acujan": 32
     }
   },
   {
@@ -1553,7 +1553,6 @@
       "7777": 37,
       "GL·feTFC": 35,
       "GL·Krapa": 40,
-      "GL·KAISER": 41,
       "Никитапро": 38,
       "absbreaker": 12,
       "GL·Arsenal": 36,
@@ -1580,7 +1579,8 @@
       "GL·HERMANITO": 36,
       "GL·PRIME": 37,
       "pukko": 36,
-      "Alex": 35
+      "Alex": 35,
+      "GL·acujan": 41
     }
   },
   {
@@ -1598,7 +1598,6 @@
       "GL·Arsenal": 34,
       "GL·СамПОсебе": 35,
       "GL·Raital": 26,
-      "GL·KAISER": 31,
       "Eclipse": 37,
       "zloy32": 37,
       "deeplomotto": 36,
@@ -1620,7 +1619,8 @@
       "GL·Ğødleşş": 40,
       "GL·HERMANITO": 37,
       "GL·PRIME": 35,
-      "pukko": 37
+      "pukko": 37,
+      "GL·acujan": 31
     }
   },
   {
@@ -1645,7 +1645,6 @@
       "deeplomotto": 42,
       "zloy32": 35,
       "Eclipse": 35,
-      "GL·KAISER": 37,
       "GL·Raital": 38,
       "≡DEMON≡": 35,
       "GL·SENSA1": 36,
@@ -1660,7 +1659,8 @@
       "GL·Ğødleşş": 40,
       "GL·qupetv": 39,
       "GL·PRIME": 35,
-      "pukko": 34
+      "pukko": 34,
+      "GL·acujan": 37
     }
   },
   {
@@ -1690,7 +1690,6 @@
       "GL·Gratz": 38,
       "GL·Acapellkazxc": 36,
       "Nerazzurri7": 34,
-      "GL·KAISER": 33,
       "GL·SENSA1": 35,
       "GL·AMSTERDAM": 31,
       "GL·Тарт": 35,
@@ -1700,7 +1699,8 @@
       "AnGel": 38,
       "GL·qupetv": 41,
       "GL·PRIME": 37,
-      "pukko": 37
+      "pukko": 37,
+      "GL·acujan": 33
     }
   },
   {
@@ -1711,7 +1711,6 @@
     "goals": {
       "AnGel": 35,
       "GL·AMSTERDAM": 33,
-      "GL·KAISER": 32,
       "Геонуб": 40,
       "Никитапро": 34,
       "GL·MILAN": 41,
@@ -1740,7 +1739,8 @@
       "GL·Ğødleşş": 39,
       "GL·Krypton": 36,
       "7777": 38,
-      "GL·PRIME": 36
+      "GL·PRIME": 36,
+      "GL·acujan": 32
     }
   },
   {
@@ -1753,7 +1753,6 @@
       "GL·СамПОсебе": 35,
       "dimpiep": 34,
       "GL·AMSTERDAM": 37,
-      "GL·KAISER": 37,
       "GL·Lizolil": 35,
       "Геонуб": 39,
       "Никитапро": 39,
@@ -1780,7 +1779,8 @@
       "GL·qupetv": 39,
       "GL·Ğødleşş": 41,
       "7777": 31,
-      "pukko": 32
+      "pukko": 32,
+      "GL·acujan": 37
     }
   },
   {
@@ -1801,7 +1801,6 @@
       "GL·Lizolil": 36,
       "7777": 33,
       "GL·Raital": 38,
-      "GL·KAISER": 28,
       "Eclipse": 35,
       "zloy32": 37,
       "deeplomotto": 38,
@@ -1820,7 +1819,8 @@
       "GL·Acapellkazxc": 37,
       "GL·qupetv": 38,
       "GL·PRIME": 38,
-      "pukko": 35
+      "pukko": 35,
+      "GL·acujan": 28
     }
   },
   {
@@ -1851,7 +1851,6 @@
       "zloy32": 34,
       "Eclipse": 42,
       "GL·AMSTERDAM": 37,
-      "GL·KAISER": 35,
       "GL·Gratz": 23,
       "≡DEMON≡": 37,
       "GL·SENSA1": 37,
@@ -1860,7 +1859,8 @@
       "GL·Angarsk": 39,
       "GL·Ğødleşş": 37,
       "GL·Acapellkazxc": 39,
-      "GL·qupetv": 40
+      "GL·qupetv": 40,
+      "GL·acujan": 35
     }
   }
 ]
