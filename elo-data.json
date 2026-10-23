@@ -49,6 +49,12 @@
       "games": 183
     },
     {
+      "user_id": "8201093432",
+      "name": "nqtlas",
+      "elo": 1218,
+      "games": 245
+    },
+    {
       "user_id": "5495842140",
       "name": "kalax237",
       "elo": 1201,
@@ -61,22 +67,10 @@
       "games": 247
     },
     {
-      "user_id": "8201093432",
-      "name": "nqtlas",
-      "elo": 1191,
-      "games": 239
-    },
-    {
       "user_id": "1837052908",
       "name": "freshl7",
       "elo": 1183,
       "games": 222
-    },
-    {
-      "user_id": "785963986",
-      "name": "lizolil",
-      "elo": 1180,
-      "games": 111
     },
     {
       "user_id": "6387547351",
@@ -121,6 +115,12 @@
       "games": 194
     },
     {
+      "user_id": "785963986",
+      "name": "lizolil",
+      "elo": 1153,
+      "games": 117
+    },
+    {
       "user_id": "1753511136",
       "name": "CrystalW1zard",
       "elo": 1153,
@@ -131,6 +131,12 @@
       "name": "sevandrik",
       "elo": 1147,
       "games": 239
+    },
+    {
+      "user_id": "1983464929",
+      "name": "Sosik18",
+      "elo": 1134,
+      "games": 63
     },
     {
       "user_id": "1636479595",
@@ -181,12 +187,6 @@
       "games": 31
     },
     {
-      "user_id": "1983464929",
-      "name": "Sosik18",
-      "elo": 1105,
-      "games": 61
-    },
-    {
       "user_id": "5042197721",
       "name": "unstopp4blee",
       "elo": 1105,
@@ -221,12 +221,6 @@
       "name": "michlaevka",
       "elo": 1086,
       "games": 46
-    },
-    {
-      "user_id": "1429077591",
-      "name": "latviyske_pivo",
-      "elo": 1084,
-      "games": 99
     },
     {
       "user_id": "5944314187",
@@ -299,6 +293,12 @@
       "name": "stepanzxc",
       "elo": 1056,
       "games": 19
+    },
+    {
+      "user_id": "1429077591",
+      "name": "latviyske_pivo",
+      "elo": 1055,
+      "games": 101
     },
     {
       "user_id": "8743830645",
@@ -747,5 +747,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-22T00:00:05.581999+00:00"
+  "updated": "2026-10-23T00:00:05.061387+00:00"
 }
