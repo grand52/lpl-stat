@@ -13,22 +13,22 @@
       "games": 206
     },
     {
-      "user_id": "7337285291",
-      "name": "steatv",
-      "elo": 1262,
-      "games": 321
-    },
-    {
       "user_id": "975995221",
       "name": "zaali_916",
-      "elo": 1251,
-      "games": 321
+      "elo": 1291,
+      "games": 324
     },
     {
       "user_id": "747505552",
       "name": "AreyoufuckinTranchik",
-      "elo": 1249,
-      "games": 61
+      "elo": 1289,
+      "games": 64
+    },
+    {
+      "user_id": "7337285291",
+      "name": "steatv",
+      "elo": 1262,
+      "games": 321
     },
     {
       "user_id": "1241218984",
@@ -43,18 +43,6 @@
       "games": 123
     },
     {
-      "user_id": "1326782866",
-      "name": "Artem228030",
-      "elo": 1223,
-      "games": 183
-    },
-    {
-      "user_id": "8201093432",
-      "name": "nqtlas",
-      "elo": 1218,
-      "games": 245
-    },
-    {
       "user_id": "5495842140",
       "name": "kalax237",
       "elo": 1201,
@@ -67,16 +55,22 @@
       "games": 247
     },
     {
-      "user_id": "1837052908",
-      "name": "freshl7",
+      "user_id": "1326782866",
+      "name": "Artem228030",
       "elo": 1183,
-      "games": 222
+      "games": 186
     },
     {
       "user_id": "6387547351",
       "name": "Nunezly",
       "elo": 1179,
       "games": 94
+    },
+    {
+      "user_id": "8201093432",
+      "name": "nqtlas",
+      "elo": 1178,
+      "games": 248
     },
     {
       "user_id": "8781003426",
@@ -97,6 +91,12 @@
       "games": 61
     },
     {
+      "user_id": "1837052908",
+      "name": "freshl7",
+      "elo": 1163,
+      "games": 224
+    },
+    {
       "user_id": "7038418535",
       "name": "rokstarfc",
       "elo": 1158,
@@ -107,6 +107,12 @@
       "name": "kBanditsTeam",
       "elo": 1157,
       "games": 21
+    },
+    {
+      "user_id": "1983464929",
+      "name": "Sosik18",
+      "elo": 1154,
+      "games": 65
     },
     {
       "user_id": "1390464798",
@@ -131,12 +137,6 @@
       "name": "sevandrik",
       "elo": 1147,
       "games": 239
-    },
-    {
-      "user_id": "1983464929",
-      "name": "Sosik18",
-      "elo": 1134,
-      "games": 63
     },
     {
       "user_id": "1636479595",
@@ -747,5 +747,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-23T00:00:05.061387+00:00"
+  "updated": "2026-10-24T00:00:04.745792+00:00"
 }
