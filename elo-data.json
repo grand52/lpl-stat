@@ -627,16 +627,16 @@
       "games": 70
     },
     {
-      "user_id": "1738293001",
-      "name": "mentalyte",
-      "elo": 1126,
-      "games": 51
-    },
-    {
       "user_id": "7337285291",
       "name": "steatv",
       "elo": 1120,
       "games": 66
+    },
+    {
+      "user_id": "1738293001",
+      "name": "mentalyte",
+      "elo": 1117,
+      "games": 54
     },
     {
       "user_id": "8537498568",
@@ -687,6 +687,12 @@
       "games": 16
     },
     {
+      "user_id": "7483621589",
+      "name": "acujan",
+      "elo": 1036,
+      "games": 11
+    },
+    {
       "user_id": "1780258837",
       "name": "gbkhnw",
       "elo": 1035,
@@ -703,12 +709,6 @@
       "name": "An_qe",
       "elo": 1028,
       "games": 18
-    },
-    {
-      "user_id": "7483621589",
-      "name": "acujan",
-      "elo": 1027,
-      "games": 8
     },
     {
       "user_id": "5495842140",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-26T00:00:04.806992+00:00"
+  "updated": "2026-10-27T00:00:03.897943+00:00"
 }
