@@ -67,6 +67,12 @@
       "games": 94
     },
     {
+      "user_id": "5641770183",
+      "name": "yjniyb",
+      "elo": 1173,
+      "games": 64
+    },
+    {
       "user_id": "8781003426",
       "name": "zhasik9",
       "elo": 1167,
@@ -127,22 +133,10 @@
       "games": 117
     },
     {
-      "user_id": "1753511136",
-      "name": "CrystalW1zard",
-      "elo": 1153,
-      "games": 80
-    },
-    {
       "user_id": "1480258437",
       "name": "sevandrik",
       "elo": 1147,
       "games": 239
-    },
-    {
-      "user_id": "5641770183",
-      "name": "yjniyb",
-      "elo": 1141,
-      "games": 61
     },
     {
       "user_id": "1636479595",
@@ -173,6 +167,12 @@
       "name": "onvamnemihaaa",
       "elo": 1121,
       "games": 50
+    },
+    {
+      "user_id": "1753511136",
+      "name": "CrystalW1zard",
+      "elo": 1121,
+      "games": 83
     },
     {
       "user_id": "7363921107",
@@ -605,8 +605,8 @@
     {
       "user_id": "1390464798",
       "name": "AdolfKen",
-      "elo": 1270,
-      "games": 36
+      "elo": 1280,
+      "games": 38
     },
     {
       "user_id": "1996564029",
@@ -629,14 +629,14 @@
     {
       "user_id": "7337285291",
       "name": "steatv",
-      "elo": 1120,
-      "games": 66
+      "elo": 1134,
+      "games": 68
     },
     {
-      "user_id": "1738293001",
-      "name": "mentalyte",
-      "elo": 1117,
-      "games": 54
+      "user_id": "6375245430",
+      "name": "MaestrooV",
+      "elo": 1115,
+      "games": 50
     },
     {
       "user_id": "8537498568",
@@ -645,22 +645,22 @@
       "games": 22
     },
     {
-      "user_id": "6375245430",
-      "name": "MaestrooV",
-      "elo": 1084,
-      "games": 45
-    },
-    {
-      "user_id": "1326782866",
-      "name": "Artem228030",
-      "elo": 1082,
-      "games": 62
+      "user_id": "1738293001",
+      "name": "mentalyte",
+      "elo": 1080,
+      "games": 57
     },
     {
       "user_id": "2136396496",
       "name": "kakoyto_chelovek7",
       "elo": 1080,
       "games": 31
+    },
+    {
+      "user_id": "1326782866",
+      "name": "Artem228030",
+      "elo": 1074,
+      "games": 69
     },
     {
       "user_id": "975995221",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-28T00:00:03.575920+00:00"
+  "updated": "2026-10-29T00:00:03.501490+00:00"
 }
