@@ -49,16 +49,16 @@
       "games": 123
     },
     {
-      "user_id": "5529304031",
-      "name": "Muxtarkotak5as",
-      "elo": 1197,
-      "games": 247
-    },
-    {
       "user_id": "1983464929",
       "name": "Sosik18",
-      "elo": 1192,
-      "games": 72
+      "elo": 1210,
+      "games": 75
+    },
+    {
+      "user_id": "5529304031",
+      "name": "Muxtarkotak5as",
+      "elo": 1179,
+      "games": 250
     },
     {
       "user_id": "6387547351",
@@ -611,8 +611,8 @@
     {
       "user_id": "1996564029",
       "name": "platonm09",
-      "elo": 1237,
-      "games": 84
+      "elo": 1192,
+      "games": 94
     },
     {
       "user_id": "5623147689",
@@ -621,22 +621,22 @@
       "games": 58
     },
     {
-      "user_id": "5573711839",
-      "name": "Willamsfire",
-      "elo": 1138,
-      "games": 70
-    },
-    {
       "user_id": "7337285291",
       "name": "steatv",
-      "elo": 1134,
-      "games": 68
+      "elo": 1154,
+      "games": 73
     },
     {
       "user_id": "6375245430",
       "name": "MaestrooV",
-      "elo": 1115,
-      "games": 50
+      "elo": 1140,
+      "games": 55
+    },
+    {
+      "user_id": "5573711839",
+      "name": "Willamsfire",
+      "elo": 1138,
+      "games": 70
     },
     {
       "user_id": "8537498568",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-10-29T00:00:03.501490+00:00"
+  "updated": "2026-10-30T00:00:03.437256+00:00"
 }
