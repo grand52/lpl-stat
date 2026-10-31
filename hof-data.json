@@ -470,7 +470,20 @@
         "alexlakhtin",
         "deeplomotto"
       ]
+    },
+    {
+      "tournament_id": "6aca3fab41cb611c852c5839",
+      "name": "GL VSA CUP #9",
+      "chat_title": "GL•CUPS",
+      "is_vsa": true,
+      "finished_at": "2026-10-30T13:28:47.363000",
+      "first": "AdolfKen",
+      "second": "platonm09",
+      "third": [
+        "MaestrooV",
+        "sp1r1tVSA"
+      ]
     }
   ],
-  "updated": "2026-10-02T00:00:06.487341+00:00"
+  "updated": "2026-10-31T00:00:03.520245+00:00"
 }
