@@ -1,22 +1,16 @@
 {
   "h2h": [
     {
+      "user_id": "6090184809",
+      "name": "younke_killer",
+      "elo": 1343,
+      "games": 252
+    },
+    {
       "user_id": "747505552",
       "name": "AreyoufuckinTranchik",
       "elo": 1337,
       "games": 68
-    },
-    {
-      "user_id": "6090184809",
-      "name": "younke_killer",
-      "elo": 1324,
-      "games": 245
-    },
-    {
-      "user_id": "975995221",
-      "name": "zaali_916",
-      "elo": 1278,
-      "games": 332
     },
     {
       "user_id": "1326782866",
@@ -29,6 +23,12 @@
       "name": "steatv",
       "elo": 1262,
       "games": 321
+    },
+    {
+      "user_id": "975995221",
+      "name": "zaali_916",
+      "elo": 1259,
+      "games": 339
     },
     {
       "user_id": "606873629",
@@ -212,7 +212,7 @@
     },
     {
       "user_id": "1738293001",
-      "name": "mentalyte",
+      "name": "pavelpolekh",
       "elo": 1086,
       "games": 55
     },
@@ -646,7 +646,7 @@
     },
     {
       "user_id": "1738293001",
-      "name": "mentalyte",
+      "name": "pavelpolekh",
       "elo": 1080,
       "games": 57
     },
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-04T00:00:04.445264+00:00"
+  "updated": "2026-11-05T00:00:18.013179+00:00"
 }
