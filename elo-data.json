@@ -1,16 +1,16 @@
 {
   "h2h": [
     {
-      "user_id": "6090184809",
-      "name": "younke_killer",
-      "elo": 1343,
-      "games": 252
-    },
-    {
       "user_id": "747505552",
       "name": "AreyoufuckinTranchik",
-      "elo": 1337,
-      "games": 68
+      "elo": 1367,
+      "games": 73
+    },
+    {
+      "user_id": "6090184809",
+      "name": "younke_killer",
+      "elo": 1313,
+      "games": 257
     },
     {
       "user_id": "1326782866",
@@ -236,7 +236,7 @@
     },
     {
       "user_id": "5217796603",
-      "name": "fkm010",
+      "name": "fkmmy",
       "elo": 1075,
       "games": 20
     },
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-05T00:00:18.013179+00:00"
+  "updated": "2026-11-06T00:00:03.857756+00:00"
 }

@@ -483,7 +483,19 @@
         "MaestrooV",
         "sp1r1tVSA"
       ]
+    },
+    {
+      "tournament_id": "6ab41b0971eed7b3c7ce25e7",
+      "name": "META H2H GLOBAL TOURNAMENT",
+      "chat_title": "HERO FC MOBILE",
+      "is_vsa": false,
+      "finished_at": "2026-11-05T20:03:23.329000",
+      "first": "AreyoufuckinTranchik",
+      "second": "younke_killer",
+      "third": [
+        "zaali_916"
+      ]
     }
   ],
-  "updated": "2026-10-31T00:00:03.520245+00:00"
+  "updated": "2026-11-06T00:00:03.857756+00:00"
 }
