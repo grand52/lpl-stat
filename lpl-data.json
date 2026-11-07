@@ -2304,7 +2304,7 @@
     }
   },
   {
-    "match": 9,
+    "match": 10,
     "season": 22,
     "opponent": "KAMPOENG MASTER",
     "score": "1071:1040",
@@ -2341,6 +2341,46 @@
       "GL·SENSA1": 37,
       "GL·Krypton": 34,
       "pukko": 38
+    }
+  },
+  {
+    "match": 9,
+    "season": 22,
+    "opponent": "DARK BEASTS",
+    "score": "1151:1178",
+    "goals": {
+      "GL·PRIME": 39,
+      "GL·LokomotivMSK": 34,
+      "Eclipse": 38,
+      "zloy32": 39,
+      "deeplomotto": 36,
+      "GL·MILAN": 44,
+      "GL·Lizolil": 31,
+      "Nerazzurri7": 36,
+      "GL·Assassin": 37,
+      "dimpiep": 38,
+      "GL·AMSTERDAM": 38,
+      "GL·Gratz": 33,
+      "Каталонец": 37,
+      "GL·Arsenal": 35,
+      "GL·s4BeR": 34,
+      "lexus": 33,
+      "GL·Тарт": 36,
+      "San4eZF95": 32,
+      "GL·Raital": 38,
+      "Геонуб": 40,
+      "RussianTikiTaka": 35,
+      "GL·feTFC": 35,
+      "GL·Angarsk": 39,
+      "GL·Ğødleşş": 37,
+      "GL·Acapellkazxc": 35,
+      "GL·IVAN47": 32,
+      "≡DEMON≡": 40,
+      "GL·SENSA1": 37,
+      "GL·frenZ4is": 32,
+      "GL·qupetv": 40,
+      "vot9koff": 34,
+      "pukko": 27
     }
   }
 ]
