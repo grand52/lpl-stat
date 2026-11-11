@@ -495,7 +495,85 @@
       "third": [
         "zaali_916"
       ]
+    },
+    {
+      "tournament_id": "6af43ff9c1785fb4425751e2",
+      "name": "Регулярка H2H. Июнь",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-06-23T19:51:11",
+      "first": "asensibleboy",
+      "second": "onvamnemihaaa",
+      "third": [
+        "freshl7",
+        "younke_killer"
+      ]
+    },
+    {
+      "tournament_id": "6af44c4d677588b7361e29b3",
+      "name": "Регулярка H2H. Август",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-08-29T22:22:07",
+      "first": "s4BeR7",
+      "second": "Artem228030",
+      "third": [
+        "steatv",
+        "Muxtarkotak5as"
+      ]
+    },
+    {
+      "tournament_id": "6af4519bc1c89c8f9f6b2c53",
+      "name": "Регулярка H2H. Сентябрь",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-09-24T21:55:43",
+      "first": "Muxtarkotak5as",
+      "second": "zaali_916",
+      "third": [
+        "AdolfKen",
+        "onvamnemihaaa"
+      ]
+    },
+    {
+      "tournament_id": "6af457c997a56a5cd76eacfe",
+      "name": "Регулярка H2H. Октябрь",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-10-25T21:30:46",
+      "first": "Artem228030",
+      "second": "steatv",
+      "third": [
+        "younke_killer",
+        "onvamnemihaaa"
+      ]
+    },
+    {
+      "tournament_id": "6af469c1e9ba36ccccc87443",
+      "name": "Регулярка H2H. Февраль",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-02-23T19:19:46",
+      "first": "sevandrik",
+      "second": "s4BeR7",
+      "third": [
+        "zaali_916",
+        "AreyoufuckinTranchik"
+      ]
+    },
+    {
+      "tournament_id": "6af4737df6f2274e4e4e07b6",
+      "name": "Регулярка H2H. Март",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-03-22T19:26:37",
+      "first": "sevandrik",
+      "second": "younke_killer",
+      "third": [
+        "luvtwq",
+        "steatv"
+      ]
     }
   ],
-  "updated": "2026-11-06T00:00:03.857756+00:00"
+  "updated": "2026-11-11T20:34:32.276175+00:00"
 }
