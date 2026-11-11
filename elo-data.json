@@ -207,8 +207,8 @@
     {
       "user_id": "7901430350",
       "name": "Roman_543",
-      "elo": 1087,
-      "games": 38
+      "elo": 1094,
+      "games": 44
     },
     {
       "user_id": "1738293001",
@@ -235,12 +235,6 @@
       "games": 57
     },
     {
-      "user_id": "5217796603",
-      "name": "fkmmy",
-      "elo": 1075,
-      "games": 20
-    },
-    {
       "user_id": "6278978524",
       "name": "Lokomotiv_FCLM",
       "elo": 1074,
@@ -251,6 +245,12 @@
       "name": "tekstilhik",
       "elo": 1070,
       "games": 17
+    },
+    {
+      "user_id": "5217796603",
+      "name": "fkmmy",
+      "elo": 1068,
+      "games": 26
     },
     {
       "user_id": "723495486",
@@ -332,7 +332,7 @@
     },
     {
       "user_id": "5869828672",
-      "name": "senyapetrov",
+      "name": "petrov_simion",
       "elo": 1047,
       "games": 13
     },
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-10T00:00:03.709627+00:00"
+  "updated": "2026-11-11T00:00:04.044983+00:00"
 }
