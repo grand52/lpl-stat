@@ -27,8 +27,8 @@
     {
       "user_id": "975995221",
       "name": "zaali_916",
-      "elo": 1263,
-      "games": 460
+      "elo": 1268,
+      "games": 464
     },
     {
       "user_id": "606873629",
@@ -225,8 +225,8 @@
     {
       "user_id": "7901430350",
       "name": "Roman_543",
-      "elo": 1095,
-      "games": 93
+      "elo": 1090,
+      "games": 97
     },
     {
       "user_id": "5042197721",
@@ -271,6 +271,12 @@
       "games": 66
     },
     {
+      "user_id": "1429077591",
+      "name": "latviyske_pivo",
+      "elo": 1072,
+      "games": 108
+    },
+    {
       "user_id": "1461757890",
       "name": "CR7_suuuuuuuuuuu7",
       "elo": 1072,
@@ -305,12 +311,6 @@
       "name": "fkmmy",
       "elo": 1062,
       "games": 26
-    },
-    {
-      "user_id": "1429077591",
-      "name": "latviyske_pivo",
-      "elo": 1061,
-      "games": 101
     },
     {
       "user_id": "386839714",
@@ -353,12 +353,6 @@
       "name": "stepanzxc",
       "elo": 1050,
       "games": 19
-    },
-    {
-      "user_id": "6375245430",
-      "name": "MaestrooV",
-      "elo": 1049,
-      "games": 28
     },
     {
       "user_id": "1008912415",
@@ -425,6 +419,12 @@
       "name": "mrdx_11",
       "elo": 1039,
       "games": 6
+    },
+    {
+      "user_id": "6375245430",
+      "name": "MaestrooV",
+      "elo": 1038,
+      "games": 35
     },
     {
       "user_id": "6864927226",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-11T20:34:32.276175+00:00"
+  "updated": "2026-11-12T00:00:04.575613+00:00"
 }
