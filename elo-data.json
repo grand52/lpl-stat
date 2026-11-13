@@ -199,6 +199,12 @@
       "games": 41
     },
     {
+      "user_id": "5591692185",
+      "name": "N_yahyo",
+      "elo": 1107,
+      "games": 40
+    },
+    {
       "user_id": "1169895864",
       "name": "Avelon67",
       "elo": 1105,
@@ -253,22 +259,16 @@
       "games": 55
     },
     {
-      "user_id": "7114302211",
-      "name": "Nihi1us",
-      "elo": 1083,
-      "games": 241
-    },
-    {
-      "user_id": "5591692185",
-      "name": "N_yahyo",
-      "elo": 1081,
-      "games": 37
-    },
-    {
       "user_id": "5438588657",
       "name": "onvamneVSAplayer",
       "elo": 1079,
       "games": 66
+    },
+    {
+      "user_id": "7114302211",
+      "name": "Nihi1us",
+      "elo": 1078,
+      "games": 243
     },
     {
       "user_id": "1429077591",
@@ -403,12 +403,6 @@
       "games": 21
     },
     {
-      "user_id": "5573711839",
-      "name": "Willamsfire",
-      "elo": 1039,
-      "games": 195
-    },
-    {
       "user_id": "1661525473",
       "name": "Aura•CFC_PRIDE",
       "elo": 1039,
@@ -419,6 +413,12 @@
       "name": "mrdx_11",
       "elo": 1039,
       "games": 6
+    },
+    {
+      "user_id": "5573711839",
+      "name": "Willamsfire",
+      "elo": 1038,
+      "games": 200
     },
     {
       "user_id": "6375245430",
@@ -469,6 +469,12 @@
       "games": 10
     },
     {
+      "user_id": "8152492030",
+      "name": "writead",
+      "elo": 1031,
+      "games": 5
+    },
+    {
       "user_id": "5776187720",
       "name": "andreyrrj95",
       "elo": 1029,
@@ -487,6 +493,12 @@
       "games": 24
     },
     {
+      "user_id": "472727679",
+      "name": "vadimvadimvadim2",
+      "elo": 1028,
+      "games": 37
+    },
+    {
       "user_id": "7324562483",
       "name": "Behruz3004",
       "elo": 1025,
@@ -503,12 +515,6 @@
       "name": "vladimirrakov1996",
       "elo": 1023,
       "games": 8
-    },
-    {
-      "user_id": "472727679",
-      "name": "vadimvadimvadim2",
-      "elo": 1023,
-      "games": 35
     },
     {
       "user_id": "1150741121",
@@ -593,12 +599,6 @@
       "name": "MURADHIG",
       "elo": 1016,
       "games": 147
-    },
-    {
-      "user_id": "9098025798",
-      "name": "B1auteaM_456",
-      "elo": 1016,
-      "games": 150
     }
   ],
   "vsa": [
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-12T00:00:04.575613+00:00"
+  "updated": "2026-11-13T00:00:05.545794+00:00"
 }
