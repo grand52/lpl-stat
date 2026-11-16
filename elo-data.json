@@ -3,8 +3,8 @@
     {
       "user_id": "747505552",
       "name": "AreyoufuckinTranchik",
-      "elo": 1339,
-      "games": 176
+      "elo": 1305,
+      "games": 182
     },
     {
       "user_id": "1326782866",
@@ -45,14 +45,20 @@
     {
       "user_id": "5529304031",
       "name": "Muxtarkotak5as",
-      "elo": 1223,
-      "games": 414
+      "elo": 1218,
+      "games": 418
     },
     {
       "user_id": "404396984",
       "name": "onvamnemihaaa",
       "elo": 1217,
       "games": 152
+    },
+    {
+      "user_id": "6904583038",
+      "name": "DarkPlayerr",
+      "elo": 1213,
+      "games": 240
     },
     {
       "user_id": "1837052908",
@@ -63,20 +69,8 @@
     {
       "user_id": "8781003426",
       "name": "zhasik9",
-      "elo": 1199,
-      "games": 80
-    },
-    {
-      "user_id": "6904583038",
-      "name": "DarkPlayerr",
-      "elo": 1194,
-      "games": 235
-    },
-    {
-      "user_id": "6397039221",
-      "name": "Miqo313",
-      "elo": 1189,
-      "games": 150
+      "elo": 1196,
+      "games": 85
     },
     {
       "user_id": "1188889456",
@@ -101,6 +95,12 @@
       "name": "Nunezly",
       "elo": 1171,
       "games": 94
+    },
+    {
+      "user_id": "6397039221",
+      "name": "Miqo313",
+      "elo": 1170,
+      "games": 155
     },
     {
       "user_id": "5623147689",
@@ -159,8 +159,8 @@
     {
       "user_id": "5720190826",
       "name": "amirgunner",
-      "elo": 1118,
-      "games": 172
+      "elo": 1121,
+      "games": 177
     },
     {
       "user_id": "5791756295",
@@ -257,6 +257,12 @@
       "name": "AraratFrFr",
       "elo": 1082,
       "games": 142
+    },
+    {
+      "user_id": "5078493420",
+      "name": "wisipier",
+      "elo": 1081,
+      "games": 16
     },
     {
       "user_id": "386839714",
@@ -379,12 +385,6 @@
       "games": 41
     },
     {
-      "user_id": "5078493420",
-      "name": "wisipier",
-      "elo": 1047,
-      "games": 10
-    },
-    {
       "user_id": "540068769",
       "name": "Dron4ik2271",
       "elo": 1046,
@@ -469,12 +469,6 @@
       "games": 39
     },
     {
-      "user_id": "8516132321",
-      "name": "An_qe",
-      "elo": 1034,
-      "games": 148
-    },
-    {
       "user_id": "1396452155",
       "name": "combat_unit17",
       "elo": 1033,
@@ -533,6 +527,12 @@
       "name": "Behruz3004",
       "elo": 1025,
       "games": 5
+    },
+    {
+      "user_id": "1674277381",
+      "name": "deeplomotto",
+      "elo": 1025,
+      "games": 29
     },
     {
       "user_id": "1617213756",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-15T00:00:04.970830+00:00"
+  "updated": "2026-11-16T00:00:04.516094+00:00"
 }
