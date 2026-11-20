@@ -31,16 +31,16 @@
       "games": 492
     },
     {
-      "user_id": "1837052908",
-      "name": "freshl7",
-      "elo": 1257,
-      "games": 294
-    },
-    {
       "user_id": "606873629",
       "name": "P1aton_11",
       "elo": 1256,
       "games": 309
+    },
+    {
+      "user_id": "1837052908",
+      "name": "freshl7",
+      "elo": 1250,
+      "games": 299
     },
     {
       "user_id": "5529304031",
@@ -151,12 +151,6 @@
       "games": 24
     },
     {
-      "user_id": "8201093432",
-      "name": "nqtlas",
-      "elo": 1135,
-      "games": 354
-    },
-    {
       "user_id": "5495842140",
       "name": "kalax237",
       "elo": 1133,
@@ -167,6 +161,18 @@
       "name": "amirgunner",
       "elo": 1126,
       "games": 179
+    },
+    {
+      "user_id": "8201093432",
+      "name": "nqtlas",
+      "elo": 1118,
+      "games": 362
+    },
+    {
+      "user_id": "1324899380",
+      "name": "pedri_best_cm8",
+      "elo": 1118,
+      "games": 70
     },
     {
       "user_id": "6247982353",
@@ -221,12 +227,6 @@
       "name": "Serghe1KO",
       "elo": 1095,
       "games": 87
-    },
-    {
-      "user_id": "1324899380",
-      "name": "pedri_best_cm8",
-      "elo": 1094,
-      "games": 57
     },
     {
       "user_id": "7901430350",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-19T00:00:04.447134+00:00"
+  "updated": "2026-11-20T00:00:04.531520+00:00"
 }
