@@ -3,14 +3,20 @@
     {
       "user_id": "747505552",
       "name": "areyoufuckintranchik",
-      "elo": 1352,
-      "games": 217
+      "elo": 1328,
+      "games": 223
     },
     {
       "user_id": "975995221",
       "name": "zaali_916",
       "elo": 1320,
       "games": 495
+    },
+    {
+      "user_id": "5529304031",
+      "name": "muxtarkotak5as",
+      "elo": 1308,
+      "games": 452
     },
     {
       "user_id": "6090184809",
@@ -23,12 +29,6 @@
       "name": "artem228030",
       "elo": 1288,
       "games": 331
-    },
-    {
-      "user_id": "5529304031",
-      "name": "muxtarkotak5as",
-      "elo": 1284,
-      "games": 446
     },
     {
       "user_id": "7337285291",
@@ -741,5 +741,5 @@
       "games": 10
     }
   ],
-  "updated": "2026-11-26T00:00:04.349346+00:00"
+  "updated": "2026-11-27T00:00:09.590534+00:00"
 }

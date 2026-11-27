@@ -573,7 +573,20 @@
         "luvtwq",
         "steatv"
       ]
+    },
+    {
+      "tournament_id": "6af4c60ca1bc6735a03f7426",
+      "name": "Регулярка H2H. Ноябрь",
+      "chat_title": "",
+      "is_vsa": false,
+      "finished_at": "2026-11-26T12:35:22.569000",
+      "first": "muxtarkotak5as",
+      "second": "areyoufuckintranchik",
+      "third": [
+        "artem228030",
+        "freshl7"
+      ]
     }
   ],
-  "updated": "2026-11-11T20:34:32.276175+00:00"
+  "updated": "2026-11-27T00:00:09.590534+00:00"
 }
